@@ -4,29 +4,29 @@ Every open internship and graduate role at 56 big tech companies, read from each
 
 From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**1,411** internships · **669** graduate roles · updated 2026-10-28 11:22 UTC
+**1,418** internships · **676** graduate roles · updated 2026-10-28 21:40 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Engineering & technology | [908](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [236](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [536](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1686](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
-| Research | [239](https://quant-scraper.com/big-tech?for=students&discipline=research&region=AMER) | [49](https://quant-scraper.com/big-tech?for=students&discipline=research&region=EMEA) | [36](https://quant-scraper.com/big-tech?for=students&discipline=research&region=APAC) | [325](https://quant-scraper.com/big-tech?for=students&discipline=research) |
-| Product | [25](https://quant-scraper.com/big-tech?for=students&discipline=product&region=AMER) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=EMEA) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=APAC) | [39](https://quant-scraper.com/big-tech?for=students&discipline=product) |
+| Engineering & technology | [905](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [243](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [541](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1695](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
+| Research | [242](https://quant-scraper.com/big-tech?for=students&discipline=research&region=AMER) | [49](https://quant-scraper.com/big-tech?for=students&discipline=research&region=EMEA) | [37](https://quant-scraper.com/big-tech?for=students&discipline=research&region=APAC) | [329](https://quant-scraper.com/big-tech?for=students&discipline=research) |
+| Product | [26](https://quant-scraper.com/big-tech?for=students&discipline=product&region=AMER) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=EMEA) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=APAC) | [40](https://quant-scraper.com/big-tech?for=students&discipline=product) |
 | Design | [25](https://quant-scraper.com/big-tech?for=students&discipline=design&region=AMER) | [2](https://quant-scraper.com/big-tech?for=students&discipline=design&region=EMEA) | [3](https://quant-scraper.com/big-tech?for=students&discipline=design&region=APAC) | [30](https://quant-scraper.com/big-tech?for=students&discipline=design) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (1,411)
-  - [Engineering & technology](#engineering--technology--internships) (1,110)
-  - [Research](#research--internships) (252)
-  - [Product](#product--internships) (29)
+- [Internships](#internships) (1,418)
+  - [Engineering & technology](#engineering--technology--internships) (1,111)
+  - [Research](#research--internships) (257)
+  - [Product](#product--internships) (30)
   - [Design](#design--internships) (20)
-- [Graduate roles](#graduate-roles) (669)
-  - [Engineering & technology](#engineering--technology--graduate-roles) (576)
-  - [Research](#research--graduate-roles) (73)
+- [Graduate roles](#graduate-roles) (676)
+  - [Engineering & technology](#engineering--technology--graduate-roles) (584)
+  - [Research](#research--graduate-roles) (72)
   - [Product](#product--graduate-roles) (10)
   - [Design](#design--graduate-roles) (10)
 
@@ -35,37 +35,38 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 ### Engineering & technology — internships
 
 <details open>
-<summary><b>Software</b> (294)</summary>
+<summary><b>Software</b> (293)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
+| **[Arm](https://quant-scraper.com/companies/arm)** | [GPU Compiler Intern](https://careers.arm.com/job/lund/gpu-compiler-intern/33099/102539121920) | Lund | Oct 28 |
+| **[MongoDB](https://quant-scraper.com/companies/mongodb)** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Dublin | Oct 28 |
+| ↳ | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin, New York +1 | Oct 28 |
+| ↳ | [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Dublin | Oct 28 |
 | **[Shopee](https://quant-scraper.com/companies/shopee)** | [Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027)](https://careers.shopee.sg/job-detail/J02206556/) | Singapore | Oct 28 |
-| **[MongoDB](https://quant-scraper.com/companies/mongodb)** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Dublin | Oct 27 |
-| ↳ | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin, New York +1 | Oct 27 |
-| ↳ | [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Dublin | Oct 27 |
+| **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Tools Programmer Intern (Graphics)](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) | Cary | Oct 28 |
 | **[Cloudflare](https://quant-scraper.com/companies/cloudflare)** | [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) | — | Oct 27 |
 | **[Uber](https://quant-scraper.com/companies/uber)** | [2027 Software Engineering Intern, Canada](https://jobs.uber.com/en/jobs/304178/) | Toronto | Oct 27 |
-| **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Engine Programmer Intern](https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004) | Cary | Oct 26 |
+| **Epic Games** | [Engine Programmer Intern](https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004) | Cary | Oct 26 |
 | **[Pinterest](https://quant-scraper.com/companies/pinterest)** | [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) | Zurich | Oct 26 |
 | ↳ | [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) | Dublin | Oct 26 |
 | ↳ | [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) | Toronto | Oct 26 |
-| **Epic Games** | [Tools Programmer Intern (Graphics)](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) | Cary | Oct 26 |
 | **Shopee** | [Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027)](https://careers.shopee.sg/job-detail/J02205491/) | Singapore | Oct 26 |
 | **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start](https://lifeattiktok.com/search/7700820444199225653) | Singapore | Oct 26 |
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Software Engineer Full Stack / Backend I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) | San Jose, Carlsbad | Oct 24 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Software Engineer Full Stack / Backend I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) | San Jose, Carlsbad | Oct 23 |
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Software Engineer Intern - NVEX, 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186) | Beijing | Oct 23 |
 | **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393557044771) | Tulsa | Oct 23 |
 | **[Databricks](https://quant-scraper.com/companies/databricks)** | [Software Engineering Intern (2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | Bellevue, Mountain View +2 | Oct 23 |
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Software Engineer Intern - NVEX, 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186) | Beijing | Oct 23 |
 | **[Coinbase](https://quant-scraper.com/companies/coinbase)** | [Software Engineer Intern](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | Singapore | Oct 23 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond | Oct 23 |
 | **TikTok** | [Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start](https://lifeattiktok.com/search/7699479125563738373) | Singapore | Oct 22 |
 | **[Intel](https://quant-scraper.com/companies/intel)** | [Software Development Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215) | Munich | Oct 22 |
 | ↳ | [Compiler Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | Toronto | Oct 22 |
+| **NVIDIA** | [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972) | Shanghai | Oct 21 |
 | **[Stripe](https://quant-scraper.com/companies/stripe)** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Bangalore | Oct 21 |
 | ↳ | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) | Singapore | Oct 21 |
 | **Cloudflare** | [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) | — | Oct 21 |
 | ↳ | [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) | — | Oct 21 |
-| **NVIDIA** | [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972) | Shanghai | Oct 21 |
 | **Intel** | [Middleware Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213) | Gdańsk | Oct 20 |
 | **[Apple](https://quant-scraper.com/companies/apple)** | [Internship - Software Engineering](https://jobs.apple.com/en-us/details/200690139/internship-software-engineering) | Munich | Oct 20 |
 | **Coinbase** | [Software Engineer Intern](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) | San Francisco | Oct 20 |
@@ -75,9 +76,9 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Uber** | [2027 Software Engineering Intern, US](https://jobs.uber.com/en/jobs/303922/) | San Francisco, Sunnyvale +1 | Oct 20 |
 | **[Palantir](https://quant-scraper.com/companies/palantir)** | [Software Engineer, Internship - Query Engines](https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963) | London | Oct 19 |
 | ↳ | [Software Engineer, Internship - Query Engines](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) | New York | Oct 19 |
+| **Intel** | [Development Tools Software Engineer Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205) | Munich | Oct 19 |
 | **Apple** | [Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test](https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test) | Munich | Oct 19 |
 | ↳ | [Aeon Modeling Software Intern](https://jobs.apple.com/en-us/details/200690119/aeon-modeling-software-intern) | Munich | Oct 19 |
-| **Intel** | [Development Tools Software Engineer Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205) | Munich | Oct 19 |
 | **Autodesk** | [Intern, Software Development Engineer (AEC-AutoCAD Backend)](https://jobs.autodesk.com/careers/job/1443153774966) | Singapore | Oct 19 |
 | ↳ | [Intern, Software Development Engineer (PSET-Access-ENG)](https://jobs.autodesk.com/careers/job/1443153490585) | Singapore | Oct 19 |
 | ↳ | [Intern, Software Development Engineer (PSET-Localization)](https://jobs.autodesk.com/careers/job/1443153490843) | Singapore | Oct 19 |
@@ -89,30 +90,30 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Automotive Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721615591) | Markham | Oct 16 |
 | **Intel** | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | Toronto | Oct 15 |
 | **Grab** | [Intern, Software Engineer - Backend](https://jobs.smartrecruiters.com/Grab/744000155671079) | Singapore | Oct 15 |
-| **Apple** | [Intern - Full Stack Engineer](https://jobs.apple.com/en-us/details/200688776/intern-full-stack-engineer) | Prague | Oct 14 |
 | **Intel** | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897) | Gdańsk | Oct 14 |
 | ↳ | [MLIR Compiler Engineering Graduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943) | Munich | Oct 14 |
 | ↳ | [MLIR Compiler Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942) | Munich | Oct 14 |
 | **NVIDIA** | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) | Bristol, Zurich | Oct 14 |
+| **Apple** | [Intern - Full Stack Engineer](https://jobs.apple.com/en-us/details/200688776/intern-full-stack-engineer) | Prague | Oct 14 |
 | **Intel** | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) | Gdańsk | Oct 13 |
 | ↳ | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893) | Gdańsk | Oct 13 |
 | **NVIDIA** | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) | Munich, Courbevoie +2 | Oct 13 |
 | **[Netflix](https://quant-scraper.com/companies/netflix)** | [Software Engineer Intern - Summer 2027](https://explore.jobs.netflix.net/careers/job/790318904468) | Los Gatos | Oct 13 |
 | **Amazon** | [2027 Software Dev Engineer Intern - ZAF](https://www.amazon.jobs/en/jobs/10576864/2027-software-dev-engineer-intern-zaf) | Cape Town | Oct 13 |
-| **[Snowflake](https://quant-scraper.com/companies/snowflake)** | [Software Engineer Intern - Zurich (2026)](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) | Zurich | Oct 12 |
 | **NVIDIA** | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Santa Clara | Oct 12 |
 | ↳ | [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | Santa Clara | Oct 12 |
+| **[Snowflake](https://quant-scraper.com/companies/snowflake)** | [Software Engineer Intern - Zurich (2026)](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) | Zurich | Oct 12 |
 | **Amazon** | [Software Development Engineer Intern](https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition) | Zapopan | Oct 9 |
 | ↳ | [Software Development Engineer Intern](https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition) | Mexico City | Oct 9 |
+| **Intel** | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Compiler-Engineering-Intern_JR0287941) | Shanghai | Oct 8 |
 | **[Riot Games](https://quant-scraper.com/companies/riotgames)** | [Software Engineering Intern - Summer 2027 (Remote)](https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014) | Los Angeles | Oct 8 |
 | **[Moloco](https://quant-scraper.com/companies/moloco)** | [Software Engineer Intern (3 months)](https://job-boards.greenhouse.io/moloco/jobs/8007407003) | Seoul | Oct 8 |
-| **Intel** | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Compiler-Engineering-Intern_JR0287941) | Shanghai | Oct 8 |
 | **Amazon** | [Software Development Engineer](https://www.amazon.jobs/en/jobs/10574042/software-development-engineer-amazon-university-talent-acquisition) | Zapopan | Oct 8 |
 | ↳ | [Software Development Engineer](https://www.amazon.jobs/en/jobs/10573798/software-development-engineer-amazon-university-talent-acquisition) | Mexico City | Oct 8 |
 | **Intel** | [GPU Software Performance Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884) | Gdańsk | Oct 7 |
-| **[AMD](https://quant-scraper.com/companies/amd)** | [Summer 2027 Software Engineer Intern](https://careers.amd.com/jobs/93409) | Cambridge | Oct 6 |
 | **NVIDIA** | [GPU Compiler LLVM Backend Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567) | Shanghai | Oct 6 |
 | ↳ | [APAC Ecommerce Backend Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030) | Taipei, Hsinchu | Oct 6 |
+| **[AMD](https://quant-scraper.com/companies/amd)** | [Summer 2027 Software Engineer Intern](https://careers.amd.com/jobs/93409) | Cambridge | Oct 6 |
 | **Databricks** | [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | London | Oct 5 |
 | **AMD** | [Summer 2027 Software Engineer Intern](https://careers.amd.com/jobs/93127) | Penicuik | Oct 5 |
 | **Amazon** | [2027 Software Dev Engineer Intern - Netherlands](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) | Amsterdam | Oct 5 |
@@ -121,22 +122,18 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Software Engineering Intern (2027 Start) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002) | Belgrade | Oct 2 |
 | ↳ | [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) | Aarhus | Oct 2 |
 | ↳ | [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Amsterdam | Oct 2 |
-| **Cisco** | [Software Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) | Maynard | Oct 2 |
-| ↳ | [Software Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) | Maynard | Oct 2 |
-| ↳ | [Software Consulting Engineer I (Intern) United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) | Research Triangle Park | Oct 2 |
 | **Qualcomm** | [Modular Engineering Internship - Summer 2027](https://careers.qualcomm.com/careers/job/446721246663) | Los Altos | Oct 2 |
+| **Cisco** | [Software Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) | Maynard | Oct 1 |
+| ↳ | [Software Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) | Maynard | Oct 1 |
+| ↳ | [Software Consulting Engineer I (Intern) United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) | Research Triangle Park | Oct 1 |
 | **[Datadog](https://quant-scraper.com/companies/datadog)** | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, New York | Sep 30 |
 | ↳ | [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) | Paris | Sep 29 |
 | ↳ | [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) | Madrid | Sep 29 |
 | **Snowflake** | [Software Engineer Intern - Berlin (2027)](https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8) | Berlin | Sep 29 |
-| **Epic Games** | [Tools Programmer Intern](https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004) | Cary | Sep 28 |
-| ↳ | [UI Programmer Intern](https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004) | Cary | Sep 28 |
-| ↳ | [Frontend Programmer Intern](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004) | Cary | Sep 28 |
-| ↳ | [Web Engineer Intern](https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004) | London | Sep 28 |
-| ↳ | [Web Engineer Intern](https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004) | Novi Sad | Sep 28 |
-| ↳ | [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004) | Cary | Sep 28 |
-| ↳ | [Engine Programmer Intern](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004) | London | Sep 28 |
-| ↳ | [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) | Cary | Sep 28 |
+| **Cisco** | [Software Engineer - Intern](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625) | Harpenden | Sep 28 |
+| ↳ | [Software Engineer Summer Internship - Lysaker, Norway](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Lysaker-Norway/Software-Engineer-Summer-Internship---Lysaker--Norway_2024366) | Norway | Sep 28 |
+| ↳ | [Software Engineer Intern](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Galway-Ireland/Software-Engineer-Intern_2024810) | Galway | Sep 28 |
+| ↳ | [Wireless Software Engineer_ Intern](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061) | Lausanne | Sep 28 |
 | **Intel** | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | Hillsboro, Folsom +3 | Sep 28 |
 | ↳ | [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | Hillsboro, Folsom +3 | Sep 28 |
 | ↳ | [Software Solutions PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Hillsboro | Sep 28 |
@@ -149,10 +146,13 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Software Engineer, Simulation and Virtualization (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783) | Taipei, Hsinchu | Sep 28 |
 | ↳ | [Software Engineering Intern, Compiler Verification - Spring 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177) | Beijing, Shanghai | Sep 28 |
 | ↳ | [Managed Language Compiler Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437) | Shanghai | Sep 28 |
-| **Cisco** | [Software Engineer - Intern](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625) | Harpenden | Sep 28 |
-| ↳ | [Software Engineer Summer Internship - Lysaker, Norway](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Lysaker-Norway/Software-Engineer-Summer-Internship---Lysaker--Norway_2024366) | Norway | Sep 28 |
-| ↳ | [Software Engineer Intern](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Galway-Ireland/Software-Engineer-Intern_2024810) | Galway | Sep 28 |
-| ↳ | [Wireless Software Engineer_ Intern](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061) | Lausanne | Sep 28 |
+| **Epic Games** | [Tools Programmer Intern](https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004) | Cary | Sep 28 |
+| ↳ | [UI Programmer Intern](https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004) | Cary | Sep 28 |
+| ↳ | [Frontend Programmer Intern](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004) | Cary | Sep 28 |
+| ↳ | [Web Engineer Intern](https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004) | London | Sep 28 |
+| ↳ | [Web Engineer Intern](https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004) | Novi Sad | Sep 28 |
+| ↳ | [Engine Programmer Intern](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004) | London | Sep 28 |
+| ↳ | [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) | Cary | Sep 28 |
 | **[Notion](https://quant-scraper.com/companies/notion)** | [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) | San Francisco, New York | Sep 24 |
 | **[Ramp](https://quant-scraper.com/companies/ramp)** | [Software Engineering Intern, iOS](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) | New York | Sep 24 |
 | ↳ | [Software Engineering Intern, Android](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8) | New York | Sep 24 |
@@ -192,7 +192,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Apple** | [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai) | Shanghai | Jul 21 |
 | **Qualcomm** | [Intern: On-device AgenticAI](https://careers.qualcomm.com/careers/job/446719804308) | Seoul | Jul 20 |
 | **Grab** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Grab/744000134684719) | Beijing | Jun 29 |
-| **Snowflake** | [Software Engineer Intern - Berlin (2026)](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) | Berlin | Jun 2 |
 | **Apple** | [Software PhD Internships](https://jobs.apple.com/en-us/details/200664323/software-phd-internships) | United States (anywhere) | May 21 |
 | ↳ | [Software Engineering Masters Internships](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) | United States (anywhere) | May 21 |
 | ↳ | [Software Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) | United States (anywhere) | May 21 |
@@ -221,7 +220,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta, Boston +7 | — |
 | ↳ | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007) | London | — |
 | ↳ | [Winter 2027 Software Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) | Quincy | — |
-| **[Arm](https://quant-scraper.com/companies/arm)** | [CPU Software Intern for Verification](https://careers.arm.com/job/sophia-antipolis/cpu-software-intern-for-verification/33099/102172017328) | Sophia Antipolis | — |
+| **Arm** | [CPU Software Intern for Verification](https://careers.arm.com/job/sophia-antipolis/cpu-software-intern-for-verification/33099/102172017328) | Sophia Antipolis | — |
 | ↳ | [GPU Software Applications Engineer Intern (3 months)](https://careers.arm.com/job/seoul/gpu-software-applications-engineer-intern-3-months/33099/102148485392) | Seoul | — |
 | ↳ | [Graphics Software Intern, Vulkan](https://careers.arm.com/job/trondheim/graphics-software-intern-vulkan/33099/100604944240) | Trondheim, Norway | — |
 | ↳ | [Software Applications Intern](https://careers.arm.com/job/taipei/software-applications-intern/33099/102027382976) | Taipei | — |
@@ -337,25 +336,28 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>AI / ML</b> (217)</summary>
+<summary><b>AI / ML</b> (220)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
 | **[Intel](https://quant-scraper.com/companies/intel)** | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692) | Shanghai, Shenzhen +1 | Oct 28 |
-| ↳ | [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) | Phoenix, Hillsboro | Oct 27 |
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Performance Engineering Intern, Deep Learning and HPC - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299) | Shanghai | Oct 28 |
+| **[Arm](https://quant-scraper.com/companies/arm)** | [ML Software Engineering Intern](https://careers.arm.com/job/lund/ml-software-engineering-intern/33099/102539110784) | Lund | Oct 28 |
+| **[AMD](https://quant-scraper.com/companies/amd)** | [Spring/Summer 2027 Masters AI Training Software & Performance Co-op](https://careers.amd.com/jobs/93476) | San Jose | Oct 28 |
+| **Intel** | [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) | Phoenix, Hillsboro | Oct 27 |
 | **[Meta](https://quant-scraper.com/companies/meta)** | [Product Design Engineering Intern - AI Glasses](https://www.metacareers.com/jobs/1714201770266311/) | Sunnyvale | Oct 27 |
 | **[Waymo](https://quant-scraper.com/companies/waymo)** | [2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Mountain View | Oct 27 |
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Software Engineering Intern, AI Agents & Backend Infrastructure - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942) | Courbevoie, Munich +1 | Oct 27 |
+| **NVIDIA** | [Software Engineering Intern, AI Agents & Backend Infrastructure - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942) | Courbevoie, Munich +1 | Oct 27 |
 | ↳ | [Software Engineering Intern, AI Agents and Backend Infrastructure - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) | Bristol, Reading | Oct 27 |
 | **[Moloco](https://quant-scraper.com/companies/moloco)** | [Machine Learning Engineer Intern (3-month Internship)](https://job-boards.greenhouse.io/moloco/jobs/8044892003) | Seoul | Oct 26 |
 | **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Machine Learning AISW Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721636765) | Markham | Oct 26 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | London, Cambridge | Oct 26 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8304574) | San Francisco | Oct 23 |
-| **[Arm](https://quant-scraper.com/companies/arm)** | [2027 Master Thesis Projects in ML Software Lund](https://careers.arm.com/job/lund/2027-master-thesis-projects-in-ml-software-lund/33099/102324964640) | Lund | Oct 23 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://careers.withwaymo.com/jobs?gh_jid=8287385) | Mountain View | Oct 23 |
 | **NVIDIA** | [Deep Learning Model and System Optimization Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784) | Shanghai, Beijing | Oct 23 |
 | ↳ | [Software Engineering Intern, AI Automation Infra - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205) | Shanghai | Oct 23 |
-| ↳ | [AI Agent Engineer Intern, AI Enablement Process - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1) | Beijing | Oct 22 |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8304574) | San Francisco | Oct 23 |
+| **Arm** | [2027 Master Thesis Projects in ML Software Lund](https://careers.arm.com/job/lund/2027-master-thesis-projects-in-ml-software-lund/33099/102324964640) | Lund | Oct 23 |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://careers.withwaymo.com/jobs?gh_jid=8287385) | Mountain View | Oct 23 |
+| **NVIDIA** | [AI Agent Engineer Intern, AI Enablement Process - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1) | Beijing | Oct 22 |
 | ↳ | [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | Santa Clara | Oct 22 |
 | **Qualcomm** | [FY27 Intern - AI and DSP Applications Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721686396) | Markham | Oct 22 |
 | **Intel** | [Media AI Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216) | Gdańsk | Oct 21 |
@@ -365,12 +367,12 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [AI Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) | Munich | Oct 20 |
 | **[Apple](https://quant-scraper.com/companies/apple)** | [Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE](https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte) | Munich | Oct 19 |
 | **[Autodesk](https://quant-scraper.com/companies/autodesk)** | [Intern, AI Data Developer (Winter)](https://jobs.autodesk.com/careers/job/1443153493535) | Toronto | Oct 18 |
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Software Engineer Data & AI PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) | San Jose, Chicago +1 | Oct 17 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Software Engineer Data & AI PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) | San Jose, Chicago +1 | Oct 16 |
 | **Apple** | [Wireless Software & AI/ML Engineer Intern - Beijing](https://jobs.apple.com/en-us/details/200688346/wireless-software-ai-ml-engineer-intern-beijing) | Beijing | Oct 16 |
 | **[Coinbase](https://quant-scraper.com/companies/coinbase)** | [Machine Learning Engineer Intern](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) | San Francisco | Oct 14 |
-| **Apple** | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | Zurich | Oct 13 |
 | **NVIDIA** | [Software Engineering Intern, Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596) | Shanghai, Shenzhen | Oct 13 |
-| ↳ | [MLOps Physical AI Data Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544) | Shanghai | Oct 12 |
+| **Apple** | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | Zurich | Oct 13 |
+| **NVIDIA** | [MLOps Physical AI Data Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544) | Shanghai | Oct 12 |
 | ↳ | [Software Engineering Intern, AI CI/CD Infrastructure - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869) | Shanghai | Oct 12 |
 | ↳ | [Deep Learning Performance Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2026880) | Shanghai | Oct 12 |
 | ↳ | [Deep Learning Performance Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2027348) | Shanghai | Oct 12 |
@@ -405,7 +407,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [FY27 Intern - Compute DSP/AI Processor Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064094) | Markham | Sep 17 |
 | ↳ | [FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721143440) | Markham | Sep 17 |
 | ↳ | [FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721064018) | Markham | Sep 17 |
-| **[AMD](https://quant-scraper.com/companies/amd)** | [Short Term 2027 Machine Learning/Artificial Intelligence Intern/Co-Op](https://careers.amd.com/jobs/91363) | Markham | Sep 1 |
+| **AMD** | [Short Term 2027 Machine Learning/Artificial Intelligence Intern/Co-Op](https://careers.amd.com/jobs/91363) | Markham | Sep 1 |
 | ↳ | [Summer 2027 Long Term Machine Learning/Artificial Intelligence Intern/Co-Op](https://careers.amd.com/jobs/90383) | Markham | Sep 1 |
 | ↳ | [2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op](https://careers.amd.com/jobs/91181) | Austin, Boxborough +4 | Aug 20 |
 | ↳ | [2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op](https://careers.amd.com/jobs/91177) | Santa Clara, San Jose | Aug 20 |
@@ -562,17 +564,20 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Hardware</b> (181)</summary>
+<summary><b>Hardware</b> (180)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [ASIC Engineer - Block Level Physical Design Engineer - Armenia - ETR](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Armenia/ASIC-Engineer---Block-Level-Physical-Design-Engineer---Armenia---ETR_2030054) | Armenia (anywhere) | Oct 28 |
+| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Camera Design Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829439) | Vancouver | Oct 28 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [ASIC Engineer - Block Level Physical Design Engineer - Armenia - ETR](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Armenia/ASIC-Engineer---Block-Level-Physical-Design-Engineer---Armenia---ETR_2030054) | Armenia (anywhere) | Oct 27 |
 | **[Apple](https://quant-scraper.com/companies/apple)** | [PMU Design Verification Intern](https://jobs.apple.com/en-us/details/200691915/pmu-design-verification-intern) | — | Oct 27 |
 | ↳ | [Engineering Intern (AI/ML & Automation) for Hardware - Shanghai](https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai) | Shanghai | Oct 27 |
-| **Cisco** | [Hardware Engineer PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991) | San Jose, Carlsbad | Oct 27 |
+| **Cisco** | [Hardware Engineer PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991) | San Jose, Carlsbad | Oct 26 |
+| ↳ | [Hardware Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose | Oct 26 |
+| ↳ | [Hardware Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756) | San Jose, Carlsbad | Oct 26 |
 | **[Meta](https://quant-scraper.com/companies/meta)** | [Battery Engineering Intern, Cell Engineering (PhD)](https://www.metacareers.com/jobs/938682979075854/) | Sunnyvale | Oct 26 |
-| **[Arm](https://quant-scraper.com/companies/arm)** | [2027 Master Thesis Projects in ML Hardware Verification Lund](https://careers.arm.com/job/lund/2027-master-thesis-projects-in-ml-hardware-verification-lund/33099/102324964592) | Lund | Oct 23 |
 | **[Intel](https://quant-scraper.com/companies/intel)** | [AI Hardware Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) | Santa Clara, Folsom | Oct 23 |
+| **[Arm](https://quant-scraper.com/companies/arm)** | [2027 Master Thesis Projects in ML Hardware Verification Lund](https://careers.arm.com/job/lund/2027-master-thesis-projects-in-ml-hardware-verification-lund/33099/102324964592) | Lund | Oct 23 |
 | **[Google](https://quant-scraper.com/companies/google)** | [Hardware Reliability Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/82387470938710726-hardware-reliability-intern-phd-summer-2027) | Taipei | Oct 22 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [NVIDIA 2027 Internships: Hardware Physical Design / VLSI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | Santa Clara | Oct 22 |
 | ↳ | [NVIDIA 2027 Internships: Hardware Design for Test (DFT)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | Santa Clara | Oct 22 |
@@ -580,12 +585,11 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [NVIDIA 2027 Internships: Hardware ASIC Design](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) | Santa Clara | Oct 22 |
 | ↳ | [NVIDIA 2027 Internships: Mixed Signal Design](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502) | Santa Clara | Oct 22 |
 | ↳ | [NVIDIA 2027 Internships: Digital Circuit Design](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) | Santa Clara | Oct 22 |
-| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721678733) | Vancouver | Oct 22 |
+| **Qualcomm** | [FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721678733) | Vancouver | Oct 22 |
 | ↳ | [FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721661830) | Markham | Oct 21 |
-| **Apple** | [Cellular Baseband Design Verification Intern](https://jobs.apple.com/en-us/details/200690378/cellular-baseband-design-verification-intern) | Munich | Oct 20 |
 | **Intel** | [DFT Design Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/DFT-Design-Engineering-Intern_JR0288321) | Penang | Oct 20 |
-| ↳ | [Signal Integrity Student Worker Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Signal-Integrity-Student-Worker-Engineer_JR0288318) | San José | Oct 20 |
 | ↳ | [Design Verification Graduate Intern 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651) | Fort Collins, Santa Clara | Oct 20 |
+| **Apple** | [Cellular Baseband Design Verification Intern](https://jobs.apple.com/en-us/details/200690378/cellular-baseband-design-verification-intern) | Munich | Oct 20 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [Hardware Development Engineer Intern, Winter 2027](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue | Oct 20 |
 | ↳ | [Industrial Design Engineer Intern, Summer 2027](https://www.amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027) | Bellevue | Oct 20 |
 | ↳ | [PDE Intern (Summer), Summer 2027](https://www.amazon.jobs/en/jobs/10584152/pde-intern-summer-summer-2027) | Sunnyvale | Oct 20 |
@@ -616,18 +620,18 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[AMD](https://quant-scraper.com/companies/amd)** | [Summer 2027 Hardware Engineer Intern](https://careers.amd.com/jobs/93407) | Cambridge | Oct 6 |
 | **NVIDIA** | [Tools and Methodology Engineer, CAD DFT (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Tools-and-Methodology-Engineer--CAD-DFT--RDSS-Intern-_JR2026887) | Taipei, Hsinchu | Oct 5 |
 | ↳ | [Software Engineer - DFT CAD Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1) | Taipei | Oct 5 |
-| **Cisco** | [Hardware Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369) | San Jose | Oct 2 |
+| **Cisco** | [Hardware Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369) | San Jose | Oct 1 |
 | **Intel** | [Graphics Hardware Validation Undergraduate Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) | Toronto | Oct 1 |
-| ↳ | [AI SOC Power Delivery Pathfinding PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538) | Hillsboro | Sep 30 |
-| **Cisco** | [Optics Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Optics-Engineer-II--Co-op----United-States_2026914) | Maynard | Sep 30 |
-| ↳ | [Physical Design Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Physical-Design-Engineer-I--Co-op----United-States_2026763) | Maynard | Sep 30 |
+| **Cisco** | [Optics Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Optics-Engineer-II--Co-op----United-States_2026914) | Maynard | Sep 29 |
+| ↳ | [Physical Design Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Physical-Design-Engineer-I--Co-op----United-States_2026763) | Maynard | Sep 29 |
+| **NVIDIA** | [Software CAD Engineer, VLSI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181) | Taipei, Hsinchu | Sep 29 |
+| ↳ | [DFT Engineer (RDSS Intern) - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180) | Taipei, Hsinchu | Sep 29 |
 | **AMD** | [Summer 2027 Hardware Engineer Intern](https://careers.amd.com/jobs/93125) | Penicuik | Sep 29 |
 | **Apple** | [Design for Test Intern (m/f/d)](https://jobs.apple.com/en-us/details/200686350/design-for-test-intern-m-f-d) | Munich | Sep 29 |
 | ↳ | [Analog Design and Verification Flow (M/F/D)](https://jobs.apple.com/en-us/details/200686345/analog-design-and-verification-flow-m-f-d) | Munich | Sep 29 |
-| **NVIDIA** | [Software CAD Engineer, VLSI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181) | Taipei, Hsinchu | Sep 29 |
-| ↳ | [DFT Engineer (RDSS Intern) - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180) | Taipei, Hsinchu | Sep 29 |
 | **Qualcomm** | [FY27 Intern - Soft IP ASIC Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721302471) | Ottawa | Sep 29 |
-| **Apple** | [Analog Design Automation and Functional Verification Intern](https://jobs.apple.com/en-us/details/200686117/analog-design-automation-and-functional-verification-intern) | Munich | Sep 28 |
+| **Cisco** | [Hardware Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024535-1) | San Jose, Austin +1 | Sep 28 |
+| ↳ | [Hardware Engineer II Intern - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757) | San Jose, Austin +2 | Sep 28 |
 | **Intel** | [Silicon Hardware Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) | Hillsboro, Folsom +3 | Sep 28 |
 | ↳ | [Silicon Hardware Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) | Hillsboro, Folsom +3 | Sep 28 |
 | ↳ | [Platform Hardware and Systems Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) | Hillsboro, Folsom +3 | Sep 28 |
@@ -649,8 +653,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Physical Design Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027) | Hsinchu | Sep 28 |
 | ↳ | [Custom SOC Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Custom-SOC-Intern---2027_JR2024692) | Shanghai | Sep 28 |
 | ↳ | [Silicon Software Engineer - System and AI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538) | Taipei, Hsinchu | Sep 28 |
-| **Cisco** | [Hardware Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024535-1) | San Jose, Austin +1 | Sep 28 |
-| ↳ | [Hardware Engineer II Intern - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757) | San Jose, Austin +2 | Sep 28 |
+| **Apple** | [Analog Design Automation and Functional Verification Intern](https://jobs.apple.com/en-us/details/200686117/analog-design-automation-and-functional-verification-intern) | Munich | Sep 28 |
 | **Qualcomm** | [FY27 Intern - Silicon Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721302528) | Toronto | Sep 28 |
 | **Apple** | [Analog IC Design Intern](https://jobs.apple.com/en-us/details/200685852/analog-ic-design-intern) | Munich | Sep 25 |
 | **Qualcomm** | [FY27 Intern - IP Applications Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721156615) | Toronto | Sep 18 |
@@ -725,8 +728,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Hardware Verification Intern - Solutions Engineering](https://careers.arm.com/job/budapest/hardware-verification-intern-solutions-engineering/33099/101386258432) | Budapest | — |
 | ↳ | [Physical Design Intern](https://careers.arm.com/job/sophia-antipolis/physical-design-intern/33099/101742818272) | Sophia Antipolis | — |
 | ↳ | [SoC Architect Intern](https://careers.arm.com/job/sophia-antipolis/soc-architect-intern/33099/101751692512) | Sophia Antipolis | — |
-| **Cisco** | [Hardware Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756) | San Jose, Carlsbad | — |
-| ↳ | [Hardware Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose | — |
 | **[DoorDash](https://quant-scraper.com/companies/doordash)** | [Electrical Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) | Oakland | — |
 | **Google** | [Hardware Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/128919086494032582-hardware-engineering-intern-2027) | Taipei, New Taipei | — |
 | ↳ | [Hardware Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027) | Mountain View, Ann Arbor | — |
@@ -751,13 +752,12 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Systems</b> (89)</summary>
+<summary><b>Systems</b> (88)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [Network Development Engineer Intern, 2027 Summer](https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer) | Seattle, Santa Clara +2 | Oct 27 |
-| **[Intel](https://quant-scraper.com/companies/intel)** | [DevOps Engineering Student](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Petah-Tikva/DevOps-Engineering-Student_JR0288513) | Haifa | Oct 26 |
-| ↳ | [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1) | Gdańsk | Oct 23 |
+| **[Intel](https://quant-scraper.com/companies/intel)** | [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1) | Gdańsk | Oct 23 |
 | ↳ | [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209) | Gdańsk | Oct 22 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [System Software Engineer - Base OS (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948) | Taipei | Oct 22 |
 | ↳ | [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Santa Clara | Oct 22 |
@@ -778,8 +778,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **NVIDIA** | [Software Engineer, Data Center Compute Software Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645) | Taipei | Oct 6 |
 | ↳ | [Software Engineering Intern, Nsight Systems - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248) | Warsaw | Oct 5 |
 | **Amazon** | [Data Center Engineering Operations - 2027 Internship](https://www.amazon.jobs/en/jobs/10567712/data-center-engineering-operations-2027-internship) | Huesca, Zaragoza | Oct 2 |
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Network Engineer Intern, Australia](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/North-Sydney-Australia/Network-Engineer-Intern--Australia_2024351) | Sydney | Sep 30 |
-| **Amazon** | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | Austin, Seattle +1 | Sep 30 |
+| ↳ | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | Austin, Seattle +1 | Sep 30 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Network Engineer Intern, Australia](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/North-Sydney-Australia/Network-Engineer-Intern--Australia_2024351) | Sydney | Sep 29 |
 | **Intel** | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | Kulim | Sep 28 |
 | ↳ | [System Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457) | Hillsboro | Sep 28 |
 | **NVIDIA** | [System Design Intern, LDE - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952) | Taipei | Sep 28 |
@@ -869,13 +869,13 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [2027 Undergrad Thermal Engineering Intern/Co-Op](https://careers.amd.com/jobs/93644) | Austin, Secaucus | Oct 11 |
 | **Intel** | [Module Engineering PhD Intern 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876) | Hillsboro | Oct 8 |
 | ↳ | [Module Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020) | Hillsboro | Oct 7 |
+| ↳ | [(Epi) - Module Development Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820) | Hillsboro | Oct 6 |
 | **[Apple](https://quant-scraper.com/companies/apple)** | [Manufacturing Design Engineer - Intern](https://jobs.apple.com/en-us/details/200686088/manufacturing-design-engineer-intern) | Shanghai, Shenzhen | Oct 6 |
-| **Intel** | [(Epi) - Module Development Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820) | Hillsboro | Oct 6 |
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Mechanical Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028) | San Jose | Oct 2 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Mechanical Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028) | San Jose | Oct 1 |
 | **AMD** | [2027 Undergrad Thermal Engineering Intern/Co-Op](https://careers.amd.com/jobs/93091) | Santa Clara | Sep 30 |
-| **Cisco** | [Systems Quality Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751) | Maynard | Sep 30 |
-| ↳ | [Systems Quality Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915) | Maynard | Sep 30 |
-| ↳ | [Mechanical Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Mechanical-Engineer-II--Co-op----United-States_2026912) | Maynard | Sep 30 |
+| **Cisco** | [Systems Quality Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751) | Maynard | Sep 29 |
+| ↳ | [Systems Quality Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915) | Maynard | Sep 29 |
+| ↳ | [Mechanical Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Mechanical-Engineer-II--Co-op----United-States_2026912) | Maynard | Sep 29 |
 | **Intel** | [Module Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026) | Hillsboro | Sep 28 |
 | ↳ | [Module Engineering PhD Intern - Wet Etch](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047) | Hillsboro | Sep 28 |
 | ↳ | [Module Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021) | Hillsboro | Sep 28 |
@@ -908,16 +908,62 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Forward deployed & solutions</b> (41)</summary>
+<summary><b>QA & testing</b> (40)</summary>
+
+| Company | Role | Location | Posted |
+|---|---|---|---|
+| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404) | Toronto | Oct 28 |
+| **[Autodesk](https://quant-scraper.com/companies/autodesk)** | [Intern, Software QA Engineer](https://jobs.autodesk.com/careers/job/1443154162484) | Kraków | Oct 27 |
+| **[Intel](https://quant-scraper.com/companies/intel)** | [Intern Software QA Test Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220) | Gdańsk | Oct 21 |
+| **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [SDET Intern](https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004) | Cary | Oct 21 |
+| **Autodesk** | [Intern, Software QA Engineer - Fusion](https://jobs.autodesk.com/careers/job/1443153529403) | Kraków | Oct 21 |
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478) | Shanghai | Oct 19 |
+| ↳ | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476) | Shanghai | Oct 19 |
+| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707) | Shanghai | Oct 19 |
+| **Autodesk** | [Intern, Software Engineer in Test (AEC Autocad Engineering)](https://jobs.autodesk.com/careers/job/1443153797951) | Singapore | Oct 19 |
+| **Qualcomm** | [FY27 - AI Driven Test Automation Engineering Intern](https://careers.qualcomm.com/careers/job/446721349370) | Hod Hasharon | Oct 14 |
+| **NVIDIA** | [Test Development Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472) | Shanghai | Oct 12 |
+| ↳ | [Software Engineering Intern, DGX Cloud Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1) | Shanghai | Oct 12 |
+| ↳ | [Test Development Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347) | Shanghai | Oct 12 |
+| ↳ | [Software Engineering Intern, DGX Cloud Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479) | Shanghai | Oct 12 |
+| ↳ | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477) | Shanghai | Oct 12 |
+| ↳ | [Software QA Developer Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654) | Shanghai | Sep 28 |
+| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656) | Shanghai | Sep 28 |
+| ↳ | [Test Development Software Engineering Intern, Aerial - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852) | Shanghai | Sep 28 |
+| ↳ | [Software QA Intern, Spark Rapids - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655) | Shanghai | Sep 28 |
+| ↳ | [Software Engineering Intern, CUDA Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) | Shanghai | Sep 28 |
+| ↳ | [SWQA Test Development Intern, GPU Communications Libraries - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SWQA-Test-Development-Intern--GPU-Communications-Libraries---2027_JR2023690) | Shanghai | Sep 28 |
+| ↳ | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913) | Taipei | Sep 28 |
+| ↳ | [Test Development Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632) | Shanghai | Sep 28 |
+| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641) | Shanghai | Sep 28 |
+| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639) | Shanghai | Sep 28 |
+| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1) | Shanghai | Sep 28 |
+| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658) | Shanghai | Sep 28 |
+| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652) | Shanghai | Sep 28 |
+| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648) | Shanghai | Sep 28 |
+| **[AMD](https://quant-scraper.com/companies/amd)** | [Summer 2027 Long Term Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/90429) | Markham | Sep 1 |
+| ↳ | [2027 Masters Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91477) | Austin, Boxborough +4 | Aug 25 |
+| ↳ | [2027 Masters Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91475) | Santa Clara, San Jose | Aug 25 |
+| ↳ | [2027 Undergrad Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91448) | San Jose | Aug 25 |
+| ↳ | [2027 Undergrad Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91451) | Austin, Boxborough +4 | Aug 25 |
+| **[Arm](https://quant-scraper.com/companies/arm)** | [QA/DevOps Intern](https://careers.arm.com/job/sophia-antipolis/qa-devops-intern/33099/101899425056) | Sophia Antipolis | — |
+| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Software Development Engineer in Test Intern(TikTok-Testing)- 2027 Summer](https://lifeattiktok.com/search/7667934759481526581) | San Jose | — |
+| ↳ | [Software Development Engineer in Test Project Intern (QA) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7618066031789541685) | Singapore | — |
+| ↳ | [Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer](https://lifeattiktok.com/search/7668837275459324213) | San Jose | — |
+| ↳ | [Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer](https://lifeattiktok.com/search/7668837276597127477) | Seattle | — |
+| ↳ | [Software Test Engineer Intern (AI) - 2027 Start](https://lifeattiktok.com/search/7670062655184308533) | Singapore | — |
+
+</details>
+
+<details>
+<summary><b>Forward deployed & solutions</b> (39)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
 | **[Salesforce](https://quant-scraper.com/companies/salesforce)** | [Summer 2027 Intern - Forward Deployed Engineer - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) | — | Oct 28 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [Field Engineer Intern, Fielding Engineering](https://www.amazon.jobs/en/jobs/10589523/field-engineer-intern-fielding-engineering) | Singapore | Oct 27 |
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Associate Sales Engineer I (Intern) - Brazil](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/BRA-BRASILIA/Associate-Sales-Engineer-I--Intern----Brazil_2029143) | Brasília | Oct 23 |
 | **[Palantir](https://quant-scraper.com/companies/palantir)** | [Forward Deployed Software Engineer, Internship - Warp Speed](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) | New York | Oct 22 |
-| **Salesforce** | [Summer 2027 Intern - Solution Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) | New York | Oct 14 |
-| **Cisco** | [Splunk Solutions Engineer (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084) | Research Triangle Park, Boulder +2 | Oct 8 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Splunk Solutions Engineer (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084) | Research Triangle Park, Boulder +2 | Oct 7 |
 | **[Intel](https://quant-scraper.com/companies/intel)** | [AI Solution Architect Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) | Santa Clara | Oct 5 |
 | ↳ | [AI Solution Architect - Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) | Santa Clara | Oct 5 |
 | **Amazon** | [Associate Solutions Architect Intern, Hong Kong](https://www.amazon.jobs/en/jobs/10563358/associate-solutions-architect-intern-hong-kong) | Hong Kong | Sep 29 |
@@ -957,54 +1003,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>QA & testing</b> (40)</summary>
-
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Autodesk](https://quant-scraper.com/companies/autodesk)** | [Intern, Software QA Engineer](https://jobs.autodesk.com/careers/job/1443154162484) | Kraków | Oct 27 |
-| **[Intel](https://quant-scraper.com/companies/intel)** | [Intern Software QA Test Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220) | Gdańsk | Oct 21 |
-| **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [SDET Intern](https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004) | Cary | Oct 21 |
-| **Autodesk** | [Intern, Software QA Engineer - Fusion](https://jobs.autodesk.com/careers/job/1443153529403) | Kraków | Oct 21 |
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478) | Shanghai | Oct 19 |
-| ↳ | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476) | Shanghai | Oct 19 |
-| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707) | Shanghai | Oct 19 |
-| **Autodesk** | [Intern, Software Engineer in Test (AEC Autocad Engineering)](https://jobs.autodesk.com/careers/job/1443153797951) | Singapore | Oct 19 |
-| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 - AI Driven Test Automation Engineering Intern](https://careers.qualcomm.com/careers/job/446721349370) | Hod Hasharon | Oct 14 |
-| **NVIDIA** | [Test Development Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472) | Shanghai | Oct 12 |
-| ↳ | [Software Engineering Intern, DGX Cloud Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1) | Shanghai | Oct 12 |
-| ↳ | [Test Development Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347) | Shanghai | Oct 12 |
-| ↳ | [Software Engineering Intern, DGX Cloud Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027479) | Shanghai | Oct 12 |
-| ↳ | [Software Engineering Intern, AI Agent Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477) | Shanghai | Oct 12 |
-| **Qualcomm** | [FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721349404) | Ottawa | Sep 30 |
-| **NVIDIA** | [Software QA Developer Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654) | Shanghai | Sep 28 |
-| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656) | Shanghai | Sep 28 |
-| ↳ | [Test Development Software Engineering Intern, Aerial - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852) | Shanghai | Sep 28 |
-| ↳ | [Software QA Intern, Spark Rapids - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655) | Shanghai | Sep 28 |
-| ↳ | [Software Engineering Intern, CUDA Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) | Shanghai | Sep 28 |
-| ↳ | [SWQA Test Development Intern, GPU Communications Libraries - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SWQA-Test-Development-Intern--GPU-Communications-Libraries---2027_JR2023690) | Shanghai | Sep 28 |
-| ↳ | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913) | Taipei | Sep 28 |
-| ↳ | [Test Development Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632) | Shanghai | Sep 28 |
-| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641) | Shanghai | Sep 28 |
-| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639) | Shanghai | Sep 28 |
-| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1) | Shanghai | Sep 28 |
-| ↳ | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658) | Shanghai | Sep 28 |
-| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652) | Shanghai | Sep 28 |
-| ↳ | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648) | Shanghai | Sep 28 |
-| **[AMD](https://quant-scraper.com/companies/amd)** | [Summer 2027 Long Term Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/90429) | Markham | Sep 1 |
-| ↳ | [2027 Masters Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91477) | Austin, Boxborough +4 | Aug 25 |
-| ↳ | [2027 Masters Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91475) | Santa Clara, San Jose | Aug 25 |
-| ↳ | [2027 Undergrad Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91448) | San Jose | Aug 25 |
-| ↳ | [2027 Undergrad Software Test Engineering Intern/Co-Op](https://careers.amd.com/jobs/91451) | Austin, Boxborough +4 | Aug 25 |
-| **[Arm](https://quant-scraper.com/companies/arm)** | [QA/DevOps Intern](https://careers.arm.com/job/sophia-antipolis/qa-devops-intern/33099/101899425056) | Sophia Antipolis | — |
-| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Software Development Engineer in Test Intern(TikTok-Testing)- 2027 Summer](https://lifeattiktok.com/search/7667934759481526581) | San Jose | — |
-| ↳ | [Software Development Engineer in Test Project Intern (QA) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7618066031789541685) | Singapore | — |
-| ↳ | [Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer](https://lifeattiktok.com/search/7668837275459324213) | San Jose | — |
-| ↳ | [Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer](https://lifeattiktok.com/search/7668837276597127477) | Seattle | — |
-| ↳ | [Software Test Engineer Intern (AI) - 2027 Start](https://lifeattiktok.com/search/7670062655184308533) | Singapore | — |
-
-</details>
-
-<details>
 <summary><b>Embedded & firmware</b> (32)</summary>
 
 | Company | Role | Location | Posted |
@@ -1019,7 +1017,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Amazon** | [Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | Redmond, Northridge | Oct 7 |
 | **NVIDIA** | [System Software Engineer - Embedded and Automotive (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965) | Taipei | Oct 5 |
 | **Amazon** | [Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) | Seattle, Redmond +2 | Oct 2 |
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Firmware Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Maynard | Sep 30 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Firmware Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Maynard | Sep 29 |
 | **NVIDIA** | [System Software Engineer - Embedded Power Management (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967) | Taipei | Sep 28 |
 | ↳ | [Server Firmware Developer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558) | Taipei | Sep 28 |
 | ↳ | [Firmware Application Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884) | Taipei | Sep 28 |
@@ -1167,18 +1165,24 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>General</b> (82)</summary>
+<summary><b>General</b> (85)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
+| **[Intel](https://quant-scraper.com/companies/intel)** | [Process Integration Development Engineer PhD Intern 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661) | Hillsboro | Oct 28 |
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) | Warsaw | Oct 28 |
+| ↳ | [Perf Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384) | Shanghai | Oct 28 |
+| ↳ | [Performance Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711) | Shanghai | Oct 28 |
+| **[Anduril](https://quant-scraper.com/companies/anduril)** | [Winter 2027 Library Science Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) | Santa Ana | Oct 28 |
+| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125) | Cambridge | Oct 28 |
 | **[Meta](https://quant-scraper.com/companies/meta)** | [Wireless Engineering Intern](https://www.metacareers.com/jobs/1881250979530334/) | Sunnyvale | Oct 27 |
 | **[Waymo](https://quant-scraper.com/companies/waymo)** | [2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View | Oct 27 |
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Math Device Extension Libraries Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206) | Warsaw, Courbevoie | Oct 27 |
-| **[Intel](https://quant-scraper.com/companies/intel)** | [Engineering Student for Intel Kiryat Gat](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/Engineering-Student-for-Intel-Kiryat-Gat_JR0288574) | Kiryat Gat | Oct 26 |
+| **NVIDIA** | [Math Device Extension Libraries Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206) | Warsaw, Courbevoie | Oct 27 |
+| **Intel** | [Engineering Student for Intel Kiryat Gat](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/Engineering-Student-for-Intel-Kiryat-Gat_JR0288574) | Kiryat Gat | Oct 26 |
 | **NVIDIA** | [GenAI Algorithms Intern - Model Optimization for Inference](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597) | Zurich | Oct 26 |
 | ↳ | [Computer Architecture Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052) | Shanghai, Beijing | Oct 23 |
 | ↳ | [NVIDIA 2027 Internships: Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) | Santa Clara | Oct 22 |
-| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Camera Design Implementation Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721678727) | Vancouver | Oct 22 |
+| **Qualcomm** | [FY27 Intern - Camera Design Implementation Intern - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721678727) | Vancouver | Oct 22 |
 | **[Adobe](https://quant-scraper.com/companies/adobe)** | [2027 Intern - Emerging Technology & Innovation](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) | San Jose | Oct 21 |
 | **NVIDIA** | [GenAI Algorithms Intern - Model Optimization for Inference](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377) | Warsaw | Oct 20 |
 | ↳ | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569) | Warsaw, Berlin | Oct 20 |
@@ -1193,16 +1197,14 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[AMD](https://quant-scraper.com/companies/amd)** | [Spring/Summer 2027 PhD Large Language Model Engineer Co-op](https://careers.amd.com/jobs/91764) | San Jose | Oct 5 |
 | **Apple** | [AMS Lab Validation Intern](https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern) | Munich | Oct 1 |
 | **Grab** | [Intern, Special Projects](https://jobs.smartrecruiters.com/Grab/744000152836950) | Phnom Penh | Oct 1 |
-| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Associate Applications Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Associate-Applications-Engineer-I--Co-op----United-States_2026910) | Maynard | Sep 30 |
-| **NVIDIA** | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) | Warsaw, Zurich | Sep 29 |
-| **Intel** | [Process Integration and Yield Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) | Hillsboro | Sep 28 |
-| ↳ | [Practical Engineering Student - Kiryat Gat](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/Practical-Engineering-Student----Kiryat-Gat_JR0281401) | Kiryat Gat | Sep 28 |
+| **[Cisco](https://quant-scraper.com/companies/cisco)** | [Associate Applications Engineer I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Associate-Applications-Engineer-I--Co-op----United-States_2026910) | Maynard | Sep 29 |
+| ↳ | [Test Engineer Intern, Vietnam](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Hanoi-Vietnam/Test-Engineer-Intern--Vietnam_2011415) | Hanoi | Sep 28 |
+| ↳ | [Consulting Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816) | Research Triangle Park, Richardson +1 | Sep 28 |
+| **Intel** | [Practical Engineering Student - Kiryat Gat](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/Practical-Engineering-Student----Kiryat-Gat_JR0281401) | Kiryat Gat | Sep 28 |
 | **[Snap](https://quant-scraper.com/companies/snap)** | [Verification Engineer Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Eindhoven---Netherlands/Verification-Engineer-Intern_R0045122) | Eindhoven | Sep 28 |
 | **NVIDIA** | [TPC Arch Intern, GPU SM - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/TPC-Arch-Intern--GPU-SM---2027_JR2024486) | Shanghai | Sep 28 |
 | ↳ | [Architecture Energy Modeling Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Architecture-Energy-Modeling-Engineering-Intern---2027_JR2025424) | Shanghai | Sep 28 |
 | ↳ | [Power Analysis and Optimization Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Power-Analysis-and-Optimization-Intern---2027_JR2025535) | Shanghai | Sep 28 |
-| **Cisco** | [Test Engineer Intern, Vietnam](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Hanoi-Vietnam/Test-Engineer-Intern--Vietnam_2011415) | Hanoi | Sep 28 |
-| ↳ | [Consulting Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816) | Research Triangle Park, Richardson +1 | Sep 28 |
 | **Apple** | [Tooling Engineering Intern - iPhone](https://jobs.apple.com/en-us/details/200685016/tooling-engineering-intern-iphone) | Shenzhen, Shanghai | Sep 24 |
 | **AMD** | [Summer 2027 Masters Digital Signal Processing Engineer Intern](https://careers.amd.com/jobs/89078) | San Jose | Sep 24 |
 | **Qualcomm** | [EDT - FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446721045034) | Cork | Sep 23 |
@@ -1226,7 +1228,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Qualcomm** | [FY27 Intern - Engineering Internship 2027 - 6 months, Cork](https://careers.qualcomm.com/careers/job/446718345493) | Cork | May 7 |
 | **[Netflix](https://quant-scraper.com/companies/netflix)** | [Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026](https://explore.jobs.netflix.net/careers/job/790315673635) | Los Gatos | Apr 24 |
 | **Apple** | [Formal Verification Engineer](https://jobs.apple.com/en-us/details/200620855/formal-verification-engineer) | St Albans, London | Mar 30 |
-| **[Anduril](https://quant-scraper.com/companies/anduril)** | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Ashville, Costa Mesa | — |
+| **Anduril** | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Ashville, Costa Mesa | — |
 | ↳ | [2027 Field Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | Costa Mesa, Quincy | — |
 | ↳ | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Costa Mesa | — |
 | ↳ | [Winter 2027 Business Operations Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) | Ashville, Costa Mesa | — |
@@ -1251,22 +1253,24 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Algorithm Engineer Intern (TikTok Live Revenue) - 2027 Start (PhD)](https://lifeattiktok.com/search/7660367862386673925) | Sydney | — |
 | ↳ | [Large Recommendation Model Algorithm Engineer Intern (Global E-Commerce) - 2027 Start](https://lifeattiktok.com/search/7666282799471528197) | Singapore | — |
 | ↳ | [Large Recommendation Model Algorithm Engineer Intern (Global E-Commerce) - 2027 Start (PhD)](https://lifeattiktok.com/search/7666289053178169605) | Singapore | — |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Perception, Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Mountain View | — |
-| ↳ | [2027 Summer Intern, MS/PhD, Perception, Model Lifecycle](https://careers.withwaymo.com/jobs?gh_jid=8248411) | Mountain View | — |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Perception, Model Lifecycle](https://careers.withwaymo.com/jobs?gh_jid=8248411) | Mountain View | — |
 
 </details>
 
 ### Research — internships
 
 <details open>
-<summary><b>AI / ML</b> (167)</summary>
+<summary><b>AI / ML</b> (169)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [PhD Researcher Intern, World Foundation Models](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/PhD-Researcher-Intern--World-Foundation-Models_JR2028487) | Seoul | Oct 28 |
+| ↳ | [PhD Research Intern, Electronic Design Automation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) | Santa Clara | Oct 28 |
 | **[Google](https://quant-scraper.com/companies/google)** | [Research Scientist PhD Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/87534302853505734-research-scientist-phd-intern-summer-2027) | Hyderabad | Oct 28 |
+| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721828828) | Markham | Oct 28 |
 | **[Meta](https://quant-scraper.com/companies/meta)** | [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1567168005156007/) | Menlo Park, New York | Oct 27 |
 | ↳ | [Research Scientist Intern, AI Research - Speech & Audio (PhD)](https://www.metacareers.com/jobs/1811645993254851/) | London | Oct 27 |
-| ↳ | [Research Scientist Intern, Computer Vision - Video Intelligence (PhD)](https://www.metacareers.com/jobs/1789380188995838/) | Bellevue, Menlo Park | Oct 27 |
+| ↳ | [Research Scientist Intern, Video Intelligence for GenAI/Computer Vision (Phd)](https://www.metacareers.com/jobs/1789380188995838/) | Bellevue, Menlo Park | Oct 27 |
 | ↳ | [Research Scientist Intern, Youth Safety (PhD)](https://www.metacareers.com/jobs/984204394727196/) | Bellevue | Oct 27 |
 | **[Databricks](https://quant-scraper.com/companies/databricks)** | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | San Francisco | Oct 27 |
 | **[Atlassian](https://quant-scraper.com/companies/atlassian)** | [AI Research Intern (PhD), 2027 Summer U.S.](https://www.atlassian.com/company/careers/details/26269) | San Francisco | Oct 27 |
@@ -1290,7 +1294,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Research Scientist Intern, Feed Recommendations (PhD)](https://www.metacareers.com/jobs/29044546168568671/) | Bellevue, Menlo Park | Oct 22 |
 | ↳ | [Research Scientist Intern, Muse RL and Agents Team (MSc)](https://www.metacareers.com/jobs/1647286810370437/) | Paris | Oct 22 |
 | ↳ | [Research Scientist Intern, World-Model Aware Perception & Communication (PhD)](https://www.metacareers.com/jobs/1097992326377524/) | Redmond | Oct 22 |
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [PhD Research Intern, AI for Climate and Weather Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) | Santa Clara | Oct 21 |
+| **NVIDIA** | [PhD Research Intern, AI for Climate and Weather Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) | Santa Clara | Oct 21 |
 | **[Datadog](https://quant-scraper.com/companies/datadog)** | [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | New York, Pittsburgh | Oct 21 |
 | **[Autodesk](https://quant-scraper.com/companies/autodesk)** | [PhD Researcher, HCI & Visualization Research](https://jobs.autodesk.com/careers/job/1443153475168) | Toronto, San Francisco | Oct 21 |
 | **Amazon** | [2027 Applied Scientist Internship - Masters](https://www.amazon.jobs/en/jobs/10584990/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition) | Haifa, Tel Aviv | Oct 21 |
@@ -1300,8 +1304,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **NVIDIA** | [Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027) | Santa Clara | Oct 20 |
 | **[Apple](https://quant-scraper.com/companies/apple)** | [Research Scientist Intern - Human-Centric Generative AI](https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai) | Munich | Oct 20 |
 | **Autodesk** | [Intern, Research - Context and Knowledge Systems for AI](https://jobs.autodesk.com/careers/job/1443153552456) | London | Oct 20 |
-| **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | Reading | Oct 19 |
 | **Adobe** | [2027 Intern - Experience Researcher](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996) | San Jose | Oct 19 |
+| **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | Reading | Oct 19 |
 | **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Machine Learning Intern](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | Montreal | Oct 19 |
 | ↳ | [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | — | Oct 19 |
 | ↳ | [Machine Learning Intern](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) | London | Oct 19 |
@@ -1320,7 +1324,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [PhD Research Intern, Physical AI - Foundation Models - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) | Santa Clara | Oct 12 |
 | ↳ | [PhD Research Intern, Generalist Embodied Agents Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103) | Santa Clara | Oct 12 |
 | ↳ | [PhD Research Intern, Embodied and Agentic AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792) | Santa Clara | Oct 12 |
-| ↳ | [PhD Research Intern, Electronic Design Automation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) | Santa Clara | Oct 12 |
 | ↳ | [PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499) | Santa Clara, Westford +1 | Oct 12 |
 | ↳ | [PhD Research Intern, Architecture - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) | Santa Clara, Westford +1 | Oct 12 |
 | ↳ | [Differentiable Simulation Research Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) | Santa Clara | Oct 12 |
@@ -1347,8 +1350,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Block](https://quant-scraper.com/companies/block)** | [Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Toronto | Sep 29 |
 | ↳ | [Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | San Francisco | Sep 29 |
 | **Datadog** | [Applied Science Intern](https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440) | Paris | Sep 29 |
-| **NVIDIA** | [Artificial Intelligence Research Intern - Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646) | Taipei | Sep 28 |
 | **[Cisco](https://quant-scraper.com/companies/cisco)** | [Internet Measurement Research Intern - BGP Research Team](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/London-United-Kingdom/Internet-Measurement-Research-Intern---BGP-Research-Team_2023762) | London | Sep 28 |
+| **NVIDIA** | [Artificial Intelligence Research Intern - Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646) | Taipei | Sep 28 |
 | **[AMD](https://quant-scraper.com/companies/amd)** | [Summer 2027 PhD AI Research Infrastructure, RL Post-Training Intern](https://careers.amd.com/jobs/90950) | Santa Clara | Sep 21 |
 | ↳ | [Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern](https://careers.amd.com/jobs/90910) | Santa Clara | Sep 21 |
 | **Amazon** | [2027 Applied Science Internship - Automated Reasoning - United States, PhD, Automated Reasoning](https://www.amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning) | Seattle | Sep 17 |
@@ -1361,7 +1364,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) | Melbourne | Jun 26 |
 | ↳ | [2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning) | Melbourne | Jun 23 |
 | ↳ | [2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD](https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | Seattle | Apr 16 |
-| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [PhD Internship- AI Research](https://careers.qualcomm.com/careers/job/446717502399) | Hanoi, Ho Chi Minh City | Mar 18 |
+| **Qualcomm** | [PhD Internship- AI Research](https://careers.qualcomm.com/careers/job/446717502399) | Hanoi, Ho Chi Minh City | Mar 18 |
 | ↳ | [2026 Intern-Embodied Intelligence Algorithms Research Engineer](https://careers.qualcomm.com/careers/job/446717252083) | Beijing | Mar 4 |
 | **Amazon** | [2026 Applied Scientist Intern](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) | Barcelona, Madrid | Nov 3, 2025 |
 | **Qualcomm** | [FY26 Intern - Deep Learning Researcher Internship - 4 months, Amsterdam](https://careers.qualcomm.com/careers/job/446715095913) | Amsterdam | Oct 21, 2025 |
@@ -1442,8 +1445,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Coinbase](https://quant-scraper.com/companies/coinbase)** | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | New York | Oct 14 |
 | **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Redmond | Oct 8 |
 | **[Intel](https://quant-scraper.com/companies/intel)** | [Data Science and Analytics - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) | Hillsboro | Oct 7 |
+| ↳ | [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) | Phoenix | Sep 28 |
 | **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Data Science Intern](https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004) | Cary | Sep 28 |
-| **Intel** | [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) | Phoenix | Sep 28 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [2027 Data Science Internship - United States, PhD or Masters Student](https://www.amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student) | Seattle | Sep 22 |
 | **[AMD](https://quant-scraper.com/companies/amd)** | [2027 Term 1 Internship - Developing AI & Data Science Solutions to Accelerate AMD's Product Development](https://careers.amd.com/jobs/91459) | Singapore | Aug 25 |
 | **[Atlassian](https://quant-scraper.com/companies/atlassian)** | [Data Scientist Intern, 2027 Summer U.S.](https://www.atlassian.com/company/careers/details/26271) | Seattle | — |
@@ -1470,10 +1473,11 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Robotics</b> (24)</summary>
+<summary><b>Robotics</b> (27)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
+| **[Amazon](https://quant-scraper.com/companies/amazon)** | [2027 Applied Science Internship - Robotics - United States](https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) | Sunnyvale, Seattle +3 | Oct 28 |
 | **[Meta](https://quant-scraper.com/companies/meta)** | [Research Scientist Intern, Robotics](https://www.metacareers.com/jobs/1471718241508516/) | Burlingame | Oct 27 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Research Intern, Robotics - NVIDIA Research](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498) | Singapore | Oct 24 |
 | ↳ | [Research Intern, Robotics - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499) | Singapore | Oct 24 |
@@ -1484,7 +1488,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) | Santa Clara | Oct 12 |
 | ↳ | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | Seattle, Santa Clara | Oct 12 |
 | ↳ | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) | Zurich | Oct 9 |
-| **[Amazon](https://quant-scraper.com/companies/amazon)** | [2027 Applied Science Internship - United States, PhD, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) | San Francisco | Sep 30 |
+| **Amazon** | [2027 Applied Science Internship - United States, PhD, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) | San Francisco | Sep 30 |
 | **NVIDIA** | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) | Zurich | Sep 28 |
 | **Amazon** | [2026 Applied Science Internship - United States, PhD, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | Seattle, San Francisco | Nov 17, 2025 |
 | **Meta** | [Research Scientist Intern - Robotics, World Models & Embodied AI (PhD)](https://www.metacareers.com/jobs/2281070982817094/) | London | — |
@@ -1492,6 +1496,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)](https://www.metacareers.com/jobs/2267351860492630/) | Redmond | — |
 | ↳ | [Research Scientist Intern, Computational Imaging And Robotics (PhD)](https://www.metacareers.com/jobs/2857194467985784/) | Redmond | — |
 | ↳ | [Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)](https://www.metacareers.com/jobs/1139865145249047/) | Sunnyvale, Redmond +1 | — |
+| ↳ | [Research Scientist Intern, Multimodal Learning for Robotics (PhD)](https://www.metacareers.com/jobs/1656954472496223/) | Burlingame | — |
+| ↳ | [Research Scientist Intern, Robot Foundation Models (PhD)](https://www.metacareers.com/jobs/27730225806654441/) | Redmond | — |
 | ↳ | [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/jobs/2586686598441521/) | Redmond | — |
 | ↳ | [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/jobs/1420325362923811/) | Zurich | — |
 | ↳ | [Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)](https://www.metacareers.com/jobs/1940312740718917/) | Menlo Park | — |
@@ -1594,7 +1600,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 
 | Company | Role | Location | Focus | Posted |
 |---|---|---|---|---|
-| **[Meta](https://quant-scraper.com/companies/meta)** | [Technical Program Manager Intern, Reality Labs - 2027](https://www.metacareers.com/jobs/1649069223327170/) | Sunnyvale, Seattle | General | Oct 27 |
+| **[Meta](https://quant-scraper.com/companies/meta)** | [Technical Program Manager Intern, Global Supply Management - Reality Labs (2027)](https://www.metacareers.com/jobs/3333103890230916/) | Sunnyvale | General | Oct 28 |
+| ↳ | [Technical Program Manager Intern, Reality Labs - 2027](https://www.metacareers.com/jobs/1649069223327170/) | Sunnyvale, Seattle | General | Oct 27 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Customer Technical Program Management Intern, OEMs System Partner - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512) | Santa Clara | Systems | Oct 26 |
 | **[Autodesk](https://quant-scraper.com/companies/autodesk)** | [Intern, Product Management - Manufacturing](https://jobs.autodesk.com/careers/job/1443154162149) | Toronto | Mechanical & manufacturing | Oct 26 |
 | **NVIDIA** | [Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Santa Clara | AI / ML | Oct 21 |
@@ -1607,9 +1614,9 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Databricks](https://quant-scraper.com/companies/databricks)** | [Product Management Intern (2027) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002) | Amsterdam | General | Oct 9 |
 | ↳ | [Product Management Intern (2027) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002) | Belgrade | General | Oct 9 |
 | ↳ | [Product Management Intern (2027) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002) | Berlin | General | Oct 9 |
+| **[Adobe](https://quant-scraper.com/companies/adobe)** | [2027 MBA Intern - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | San Jose, San Francisco | General | Sep 30 |
 | **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Technical Product Management Intern](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | Cary | General | Sep 30 |
 | ↳ | [Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Cary | General | Sep 30 |
-| **[Adobe](https://quant-scraper.com/companies/adobe)** | [2027 MBA Intern - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | San Jose, San Francisco | General | Sep 30 |
 | **Databricks** | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Mountain View +1 | General | Sep 23 |
 | **[AMD](https://quant-scraper.com/companies/amd)** | [Summer 2027 PhD Technical Program Manager, AI Research Intern](https://careers.amd.com/jobs/91019) | Santa Clara | AI / ML | Sep 21 |
 | **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [Product Management Internship - Summer 2027](https://careers.qualcomm.com/careers/job/446720741706) | San Diego | General | Sep 18 |
@@ -1659,9 +1666,10 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | Company | Role | Location | Posted |
 |---|---|---|---|
 | **[Stripe](https://quant-scraper.com/companies/stripe)** | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130876) | Bangalore | Oct 28 |
+| **[Amazon](https://quant-scraper.com/companies/amazon)** | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10591094/software-development-engineer-2027) | Cape Town | Oct 28 |
 | **[Roblox](https://quant-scraper.com/companies/roblox)** | [Software Engineer, Creator Services Communication](https://careers.roblox.com/jobs/8283641?gh_jid=8283641) | San Mateo | Oct 27 |
 | **[Databricks](https://quant-scraper.com/companies/databricks)** | [Software Engineer - New Grad (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | Bellevue, Mountain View +2 | Oct 27 |
-| **[Amazon](https://quant-scraper.com/companies/amazon)** | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10590145/software-development-engineer-2027) | Barcelona, Madrid | Oct 27 |
+| **Amazon** | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10590145/software-development-engineer-2027) | Barcelona, Madrid | Oct 27 |
 | ↳ | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10590147/software-development-engineer-2027) | Bristol, Edinburgh +3 | Oct 27 |
 | **Roblox** | [Software Engineer, Frontend - Economy](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) | San Mateo | Oct 26 |
 | **[Airbnb](https://quant-scraper.com/companies/airbnb)** | [Early Career Software Engineer, Tech Foundations](https://careers.airbnb.com/positions/8154749?gh_jid=8154749) | Sao Paulo | Oct 26 |
@@ -1703,7 +1711,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [2026 Graduate Software Dev Engineer](https://www.amazon.jobs/en/jobs/10491309/2026-graduate-software-dev-engineer) | Tel Aviv | Aug 4 |
 | ↳ | [Software Development Engineer - 2026](https://www.amazon.jobs/en/jobs/10477396/software-development-engineer-2026) | Berlin, Munich | Jul 17 |
 | ↳ | [Software Dev Engineer](https://www.amazon.jobs/en/jobs/10467304/software-dev-engineer) | Berlin, Dresden | Jul 7 |
-| **Notion** | [Software Engineer, Early Career](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) | San Francisco | Jul 6 |
+| **Notion** | [Software Engineer, Growth (Early Career)](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) | San Francisco | Jul 6 |
 | **Amazon** | [Software Development Graduate, 2027 Melbourne](https://www.amazon.jobs/en/jobs/10462011/software-development-graduate-2027-melbourne) | Melbourne | Jun 30 |
 | ↳ | [Software Development Graduate, AWS, 2027 Sydney](https://www.amazon.jobs/en/jobs/10462014/software-development-graduate-aws-2027-sydney) | Sydney | Jun 30 |
 | ↳ | [Software Development Graduate (2027, Stores), Brisbane](https://www.amazon.jobs/en/jobs/10419485/software-development-graduate-2027-stores-brisbane) | Brisbane | May 14 |
@@ -1713,7 +1721,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [2026 Graduate Software Dev Engineer](https://www.amazon.jobs/en/jobs/10386987/2026-graduate-software-dev-engineer) | Haifa | Apr 9 |
 | ↳ | [Software Development Graduate, AWS, 2026 Sydney](https://www.amazon.jobs/en/jobs/10378826/software-development-graduate-aws-2026-sydney) | Sydney | Mar 30 |
 | **Apple** | [Software Engineer, Apple Online Store (Early Careers)](https://jobs.apple.com/en-us/details/200654019/software-engineer-apple-online-store-early-careers) | Singapore | Mar 27 |
-| **Amazon** | [Software Development Engineer - 2026](https://www.amazon.jobs/en/jobs/10377046/software-development-engineer-2026) | Luxembourg | Mar 26 |
 | **Microsoft** | [Software Engineer II - CTJ - Poly](https://apply.careers.microsoft.com/careers/job/1970393556852481) | Redmond, Reston +1 | Mar 25 |
 | **Amazon** | [Software Development Engineer Apprentice - Military Veterans](https://www.amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans) | Bellevue, Arlington +3 | Feb 24 |
 | ↳ | [Software Development Engineer - Military Veterans](https://www.amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) | Sunnyvale, Culver City +5 | Feb 11 |
@@ -1839,11 +1846,14 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>AI / ML</b> (156)</summary>
+<summary><b>AI / ML</b> (159)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Deep Learning Performance Architect - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177) | Santa Clara | Oct 27 |
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Compute System Arch Engineer, AI Infra - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578) | Shanghai | Oct 28 |
+| **[Arm](https://quant-scraper.com/companies/arm)** | [Graduate Machine Learning Engineer - Central Technology](https://careers.arm.com/job/lund/graduate-machine-learning-engineer-central-technology/33099/102539121824) | Lund | Oct 28 |
+| ↳ | [Graduate ML Software Engineer](https://careers.arm.com/job/lund/graduate-ml-software-engineer/33099/102539110752) | Lund | Oct 28 |
+| **NVIDIA** | [Deep Learning Performance Architect - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177) | Santa Clara | Oct 27 |
 | **[Waymo](https://quant-scraper.com/companies/waymo)** | [Machine Learning Engineer, Perception, LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | Mountain View, San Francisco | Oct 26 |
 | **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Software Engineer II - Core AI](https://apply.careers.microsoft.com/careers/job/1970393557007337) | Beijing | Oct 10 |
 | **NVIDIA** | [NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) | Shanghai, Beijing +1 | Sep 28 |
@@ -2003,6 +2013,67 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
+<summary><b>Hardware</b> (53)</summary>
+
+| Company | Role | Location | Posted |
+|---|---|---|---|
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Circuit Design Methodology, CAD Engineer- New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Design-Methodology--CAD-Engineer---New-College-Graduate-2027_JR2028663) | Shanghai | Oct 28 |
+| **[Arm](https://quant-scraper.com/companies/arm)** | [Graduate ML Hardware Modelling Engineer](https://careers.arm.com/job/lund/graduate-ml-hardware-modelling-engineer/33099/102539121840) | Lund | Oct 28 |
+| ↳ | [Graduate ML Hardware Power and Performance Engineer](https://careers.arm.com/job/lund/graduate-ml-hardware-power-and-performance-engineer/33099/102539121872) | Lund | Oct 28 |
+| ↳ | [Graduate ML Hardware Verification Engineer](https://careers.arm.com/job/lund/graduate-ml-hardware-verification-engineer/33099/102539121856) | Lund | Oct 28 |
+| **NVIDIA** | [ASIC Physical Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452) | Shanghai | Oct 26 |
+| ↳ | [ASIC Engineer, Networking Chip Design - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456) | Shanghai | Oct 26 |
+| **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Design Verification Engineer](https://apply.careers.microsoft.com/careers/job/1970393557041624) | Hillsboro, Austin +1 | Oct 23 |
+| **[Anduril](https://quant-scraper.com/companies/anduril)** | [2027 Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007) | Dublin | Oct 22 |
+| **NVIDIA** | [Silicon Co-Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Santa Clara | Oct 22 |
+| ↳ | [Physical Design, VLSI - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Physical-Design--VLSI---New-College-Grad-2027_JR2024940) | Shanghai, Beijing | Oct 21 |
+| **[SpaceX](https://quant-scraper.com/companies/spacex)** | [New Graduate Engineer, Electrical (Starshield)](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) | Hawthorne | Oct 19 |
+| **NVIDIA** | [PCB Design EDA and AI Engineer - New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611) | Taipei, Hsinchu | Oct 14 |
+| **Microsoft** | [Critical Environment Electrical Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001976) | Cheyenne | Oct 14 |
+| **NVIDIA** | [PCB Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-Engineer---New-College-Grad-2027_JR2027612) | Taipei, Hsinchu | Oct 13 |
+| ↳ | [SoC Software Engineer - New College Graduate 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | Santa Clara | Oct 13 |
+| ↳ | [SRAM Circuit Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | Santa Clara | Oct 13 |
+| ↳ | [Low Power ASIC Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850) | Santa Clara | Oct 13 |
+| ↳ | [ASIC Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) | Santa Clara | Oct 13 |
+| **[Amazon](https://quant-scraper.com/companies/amazon)** | [ASIC Engineer Early Career - 2027, Project Leo](https://www.amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo) | Redmond, San Diego +1 | Oct 13 |
+| **NVIDIA** | [PMU ASIC Engineer - New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/PMU-ASIC-Engineer---New-College-Graduate-2027_JR2025835) | Shanghai | Oct 12 |
+| ↳ | [Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901) | Santa Clara | Oct 9 |
+| ↳ | [ASIC Clocks Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579) | Santa Clara | Oct 9 |
+| ↳ | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) | Santa Clara | Sep 29 |
+| ↳ | [ASIC Design Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391) | Austin | Sep 28 |
+| ↳ | [Physical Design Backend Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2013310) | Tel Aviv | Sep 28 |
+| ↳ | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) | Santa Clara | Sep 28 |
+| ↳ | [DFT Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865) | Santa Clara | Sep 28 |
+| ↳ | [ASIC Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) | Santa Clara | Sep 28 |
+| ↳ | [RTL Power Optimization Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841) | Santa Clara | Sep 28 |
+| ↳ | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330) | Austin, Santa Clara | Sep 28 |
+| ↳ | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177) | Santa Clara | Sep 28 |
+| ↳ | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681) | Santa Clara, Austin | Sep 28 |
+| ↳ | [NVIDIA 2027 New College Graduate: GPU Architecture Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--GPU-Architecture-Engineering---China_JR2024108) | Shanghai, Beijing +1 | Sep 28 |
+| ↳ | [ASIC Floorplan Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651) | Santa Clara | Sep 28 |
+| ↳ | [Mixed Signal Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693) | Santa Clara | Sep 28 |
+| ↳ | [ASIC Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343) | Austin, Santa Clara | Sep 28 |
+| ↳ | [ASIC Verification Engineer, Memory Management - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer--Memory-Management---New-College-Grad-2027_JR2026341) | Durham, Madison +1 | Sep 28 |
+| ↳ | [ASIC Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277) | Santa Clara | Sep 28 |
+| **[Apple](https://quant-scraper.com/companies/apple)** | [Frontend Engineer, EE&P - IS&T Early Career](https://jobs.apple.com/en-us/details/200676168/frontend-engineer-ee-p-is-t-early-career) | Austin | Aug 10 |
+| **Amazon** | [ASIC Engineer - RF/DSP Systems Design, LEO](https://www.amazon.jobs/en/jobs/10458189/asic-engineer-rf-dsp-systems-design-leo) | San Diego | Jun 24 |
+| ↳ | [ASIC Engineer, Project Leo](https://www.amazon.jobs/en/jobs/3176560/asic-engineer-project-leo) | Austin, Sunnyvale +2 | Feb 8 |
+| **Anduril** | [2026 Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) | Costa Mesa, Fort Collins | — |
+| ↳ | [2027 Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) | Atlanta, Boston +7 | — |
+| **Arm** | [Graduate Hardware Engineer](https://careers.arm.com/job/trondheim/graduate-hardware-engineer/33099/100604944128) | Trondheim, Norway | — |
+| **[Google](https://quant-scraper.com/companies/google)** | [Design Verification Engineer, PhD, Early Career](https://www.google.com/about/careers/applications/jobs/results/111711283144729286-design-verification-engineer-phd-early-career) | Bangalore | — |
+| ↳ | [Signal/Power Integrity Engineer, PhD Graduate](https://www.google.com/about/careers/applications/jobs/results/114836903953343174-signalpower-integrity-engineer-phd-graduate) | Haifa, Tel Aviv | — |
+| ↳ | [Silicon DFT Engineer, PhD, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/126075643661034182-silicon-dft-engineer-phd-google-cloud) | Bangalore | — |
+| ↳ | [Silicon Engineer, PhD, University Graduate, 2027 Start](https://www.google.com/about/careers/applications/jobs/results/127950560631366342-silicon-engineer-phd-university-graduate-2027-start) | Sunnyvale | — |
+| ↳ | [Silicon RTL Design Engineer, PhD, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/74838312686101190-silicon-rtl-design-engineer-phd-google-cloud) | Bangalore | — |
+| **[Meta](https://quant-scraper.com/companies/meta)** | [ASIC Engineer, Performance Architecture and Modeling (University Grad)](https://www.metacareers.com/jobs/4596319193960098/) | Sunnyvale, Austin | — |
+| **SpaceX** | [New Graduate Engineer, Electrical (Starship)](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002) | Starbase | — |
+| ↳ | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | Redmond | — |
+| ↳ | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | Bastrop | — |
+
+</details>
+
+<details>
 <summary><b>Systems</b> (51)</summary>
 
 | Company | Role | Location | Posted |
@@ -2062,64 +2133,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Hardware</b> (50)</summary>
-
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [ASIC Physical Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452) | Shanghai | Oct 26 |
-| ↳ | [ASIC Engineer, Networking Chip Design - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456) | Shanghai | Oct 26 |
-| **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Design Verification Engineer](https://apply.careers.microsoft.com/careers/job/1970393557041624) | Hillsboro, Austin +1 | Oct 23 |
-| **[Anduril](https://quant-scraper.com/companies/anduril)** | [2027 Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007) | Dublin | Oct 22 |
-| **NVIDIA** | [Silicon Co-Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Santa Clara | Oct 22 |
-| ↳ | [Physical Design, VLSI - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Physical-Design--VLSI---New-College-Grad-2027_JR2024940) | Shanghai, Beijing | Oct 21 |
-| **[SpaceX](https://quant-scraper.com/companies/spacex)** | [New Graduate Engineer, Electrical (Starshield)](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) | Hawthorne | Oct 19 |
-| **Microsoft** | [Critical Environment Electrical Engineer](https://apply.careers.microsoft.com/careers/job/1970393557001976) | Cheyenne | Oct 14 |
-| **NVIDIA** | [PCB Design EDA and AI Engineer - New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611) | Taipei, Hsinchu | Oct 14 |
-| ↳ | [ASIC Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573) | Austin, Santa Clara | Oct 14 |
-| ↳ | [PCB Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-Engineer---New-College-Grad-2027_JR2027612) | Taipei, Hsinchu | Oct 13 |
-| ↳ | [SoC Software Engineer - New College Graduate 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | Santa Clara | Oct 13 |
-| ↳ | [SRAM Circuit Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | Santa Clara | Oct 13 |
-| ↳ | [Low Power ASIC Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850) | Santa Clara | Oct 13 |
-| ↳ | [ASIC Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) | Santa Clara | Oct 13 |
-| **[Amazon](https://quant-scraper.com/companies/amazon)** | [ASIC Engineer Early Career - 2027, Project Leo](https://www.amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo) | Redmond, San Diego +1 | Oct 13 |
-| **NVIDIA** | [PMU ASIC Engineer - New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/PMU-ASIC-Engineer---New-College-Graduate-2027_JR2025835) | Shanghai | Oct 12 |
-| ↳ | [Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901) | Santa Clara | Oct 9 |
-| ↳ | [ASIC Clocks Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579) | Santa Clara | Oct 9 |
-| ↳ | [Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) | Santa Clara | Sep 29 |
-| ↳ | [ASIC Design Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391) | Austin | Sep 28 |
-| ↳ | [Physical Design Backend Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2013310) | Tel Aviv | Sep 28 |
-| ↳ | [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) | Santa Clara | Sep 28 |
-| ↳ | [DFT Engineer - New College Grad](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865) | Santa Clara | Sep 28 |
-| ↳ | [ASIC Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) | Santa Clara | Sep 28 |
-| ↳ | [RTL Power Optimization Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841) | Santa Clara | Sep 28 |
-| ↳ | [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330) | Austin, Santa Clara | Sep 28 |
-| ↳ | [ASIC Physical Design and Timing Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177) | Santa Clara | Sep 28 |
-| ↳ | [ASIC Physical Design Engineer, Netlisting - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681) | Santa Clara, Austin | Sep 28 |
-| ↳ | [NVIDIA 2027 New College Graduate: GPU Architecture Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--GPU-Architecture-Engineering---China_JR2024108) | Shanghai, Beijing +1 | Sep 28 |
-| ↳ | [ASIC Floorplan Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651) | Santa Clara | Sep 28 |
-| ↳ | [Mixed Signal Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Mixed-Signal-Design-Engineer---New-College-Grad-2026_JR2025693) | Santa Clara | Sep 28 |
-| ↳ | [ASIC Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343) | Austin, Santa Clara | Sep 28 |
-| ↳ | [ASIC Verification Engineer, Memory Management - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer--Memory-Management---New-College-Grad-2027_JR2026341) | Durham, Madison +1 | Sep 28 |
-| ↳ | [ASIC Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277) | Santa Clara | Sep 28 |
-| **[Apple](https://quant-scraper.com/companies/apple)** | [Frontend Engineer, EE&P - IS&T Early Career](https://jobs.apple.com/en-us/details/200676168/frontend-engineer-ee-p-is-t-early-career) | Austin | Aug 10 |
-| **Amazon** | [ASIC Engineer - RF/DSP Systems Design, LEO](https://www.amazon.jobs/en/jobs/10458189/asic-engineer-rf-dsp-systems-design-leo) | San Diego | Jun 24 |
-| ↳ | [ASIC Engineer, Project Leo](https://www.amazon.jobs/en/jobs/3176560/asic-engineer-project-leo) | Austin, Sunnyvale +2 | Feb 8 |
-| **Anduril** | [2026 Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) | Costa Mesa, Fort Collins | — |
-| ↳ | [2027 Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) | Atlanta, Boston +7 | — |
-| **[Arm](https://quant-scraper.com/companies/arm)** | [Graduate Hardware Engineer](https://careers.arm.com/job/trondheim/graduate-hardware-engineer/33099/100604944128) | Trondheim, Norway | — |
-| **[Google](https://quant-scraper.com/companies/google)** | [Design Verification Engineer, PhD, Early Career](https://www.google.com/about/careers/applications/jobs/results/111711283144729286-design-verification-engineer-phd-early-career) | Bangalore | — |
-| ↳ | [Signal/Power Integrity Engineer, PhD Graduate](https://www.google.com/about/careers/applications/jobs/results/114836903953343174-signalpower-integrity-engineer-phd-graduate) | Haifa, Tel Aviv | — |
-| ↳ | [Silicon DFT Engineer, PhD, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/126075643661034182-silicon-dft-engineer-phd-google-cloud) | Bangalore | — |
-| ↳ | [Silicon Engineer, PhD, University Graduate, 2027 Start](https://www.google.com/about/careers/applications/jobs/results/127950560631366342-silicon-engineer-phd-university-graduate-2027-start) | Sunnyvale | — |
-| ↳ | [Silicon RTL Design Engineer, PhD, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/74838312686101190-silicon-rtl-design-engineer-phd-google-cloud) | Bangalore | — |
-| **[Meta](https://quant-scraper.com/companies/meta)** | [ASIC Engineer, Performance Architecture and Modeling (University Grad)](https://www.metacareers.com/jobs/4596319193960098/) | Sunnyvale, Austin | — |
-| **SpaceX** | [New Graduate Engineer, Electrical (Starship)](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002) | Starbase | — |
-| ↳ | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | Redmond | — |
-| ↳ | [New Graduate Engineer, Electrical - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | Bastrop | — |
-
-</details>
-
-<details>
 <summary><b>Data</b> (26)</summary>
 
 | Company | Role | Location | Posted |
@@ -2148,7 +2161,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Data Warehouse Engineer Graduate (Data Platform, Local Services) - 2027 Start](https://lifeattiktok.com/search/7664894332742256901) | Singapore | — |
 | ↳ | [Data Warehouse Engineer Graduate (Data Platform, TikTok LIVE) - 2027 Start](https://lifeattiktok.com/search/7664897653357955333) | Singapore | — |
 | ↳ | [Data Warehouse Engineer Graduate (Data Platform, TikTok PGC) - 2027 Start](https://lifeattiktok.com/search/7665187257054398773) | Singapore | — |
-| ↳ | [Data Warehouse Engineer Graduate (Data Platform, TikTok Search) - 2027 Start](https://lifeattiktok.com/search/7665190291102058757) | Singapore | — |
+| ↳ | [Data Warehouse Engineer Graduate (Data Platform, TikTok User Growth) - 2027 Start](https://lifeattiktok.com/search/7665190291102058757) | Singapore | — |
 | ↳ | [Software Engineer Graduate (Global Advertising Data Platform) - 2027 Start](https://lifeattiktok.com/search/7675576164169091381) | Singapore | — |
 
 </details>
@@ -2242,11 +2255,12 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Embedded & firmware</b> (8)</summary>
+<summary><b>Embedded & firmware</b> (9)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Physical Layer Firmware Architecture Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Layer-Firmware-Architecture-Engineer_JR2028308) | Yokneam | Oct 21 |
+| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Firmware Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556) | Tel Aviv | Oct 28 |
+| ↳ | [Physical Layer Firmware Architecture Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Layer-Firmware-Architecture-Engineer_JR2028308) | Yokneam | Oct 21 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [Software Dev Engineer - Test, Ring & Blink Firmware](https://www.amazon.jobs/en/jobs/10537170/software-dev-engineer-test-ring-blink-firmware) | Taipei | Sep 11 |
 | ↳ | [Software Dev Engineer Embedded Development](https://www.amazon.jobs/en/jobs/10537470/software-dev-engineer-embedded-development) | Madrid | Sep 11 |
 | ↳ | [Software Dev Engineer - Embedded Development - Low Level, EC2 Live Migration](https://www.amazon.jobs/en/jobs/10512477/software-dev-engineer-embedded-development-low-level-ec2-live-migration) | Dresden | Aug 24 |
@@ -2287,10 +2301,11 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Robotics</b> (4)</summary>
+<summary><b>Robotics</b> (5)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
+| **[Anduril](https://quant-scraper.com/companies/anduril)** | [2027 New Grad GNC Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007) | Costa Mesa | Oct 28 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) | Santa Clara | Oct 19 |
 | ↳ | [NVIDIA 2027 New College Graduate: Autonomous Vehicles and Robotics - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Autonomous-Vehicles-and-Robotics---China_JR2024109) | Shanghai, Beijing +1 | Sep 28 |
 | **[SpaceX](https://quant-scraper.com/companies/spacex)** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002) | Bastrop | — |
@@ -2451,15 +2466,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 |---|---|---|---|
 | **[Google](https://quant-scraper.com/companies/google)** | [Software Engineer, Systems Research, PhD, Early Career](https://www.google.com/about/careers/applications/jobs/results/76908711519363782-software-engineer-systems-research-phd-early-career) | Sunnyvale, Seattle | — |
 | **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Research Scientist Graduate (Compute Platform - Database Acceleration)- 2026 Start (PhD)](https://lifeattiktok.com/search/7631070662808160565) | San Jose | — |
-
-</details>
-
-<details>
-<summary><b>Hardware</b> (1)</summary>
-
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644) | Santa Clara | Sep 28 |
 
 </details>
 
