@@ -4,13 +4,13 @@ Every open internship and graduate role at 56 big tech companies, read from each
 
 From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**1,420** internships · **676** graduate roles · updated 2026-10-29 02:28 UTC
+**1,422** internships · **676** graduate roles · updated 2026-10-29 03:19 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Engineering & technology | [906](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [243](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [540](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1697](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
+| Engineering & technology | [906](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [243](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [542](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1699](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
 | Research | [242](https://quant-scraper.com/big-tech?for=students&discipline=research&region=AMER) | [49](https://quant-scraper.com/big-tech?for=students&discipline=research&region=EMEA) | [37](https://quant-scraper.com/big-tech?for=students&discipline=research&region=APAC) | [329](https://quant-scraper.com/big-tech?for=students&discipline=research) |
 | Product | [26](https://quant-scraper.com/big-tech?for=students&discipline=product&region=AMER) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=EMEA) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=APAC) | [40](https://quant-scraper.com/big-tech?for=students&discipline=product) |
 | Design | [25](https://quant-scraper.com/big-tech?for=students&discipline=design&region=AMER) | [2](https://quant-scraper.com/big-tech?for=students&discipline=design&region=EMEA) | [3](https://quant-scraper.com/big-tech?for=students&discipline=design&region=APAC) | [30](https://quant-scraper.com/big-tech?for=students&discipline=design) |
@@ -19,8 +19,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 
 ## Contents
 
-- [Internships](#internships) (1,420)
-  - [Engineering & technology](#engineering--technology--internships) (1,113)
+- [Internships](#internships) (1,422)
+  - [Engineering & technology](#engineering--technology--internships) (1,115)
   - [Research](#research--internships) (257)
   - [Product](#product--internships) (30)
   - [Design](#design--internships) (20)
@@ -338,12 +338,13 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>AI / ML</b> (220)</summary>
+<summary><b>AI / ML</b> (221)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
 | **[Intel](https://quant-scraper.com/companies/intel)** | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692) | Shanghai, Shenzhen +1 | Oct 29 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Performance Engineering Intern, Deep Learning and HPC - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299) | Shanghai | Oct 29 |
+| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Machine Learning Engineer Project Intern (Recommendation) - 2027 Start](https://lifeattiktok.com/search/7686439502455212293) | Singapore | Oct 29 |
 | **[Arm](https://quant-scraper.com/companies/arm)** | [ML Software Engineering Intern](https://careers.arm.com/job/lund/ml-software-engineering-intern/33099/102539110784) | Lund | Oct 28 |
 | **[AMD](https://quant-scraper.com/companies/amd)** | [Spring/Summer 2027 Masters AI Training Software & Performance Co-op](https://careers.amd.com/jobs/93476) | San Jose | Oct 28 |
 | **Intel** | [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) | Phoenix, Hillsboro | Oct 27 |
@@ -429,7 +430,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Meta** | [Software Engineer Intern, Machine Learning (PhD)](https://www.metacareers.com/jobs/2180490782513668/) | Sunnyvale, Bellevue +5 | — |
 | **[Pinterest](https://quant-scraper.com/companies/pinterest)** | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, Palo Alto +2 | — |
 | ↳ | [PhD Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) | San Francisco, Palo Alto +2 | — |
-| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [(General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Start (PhD)](https://lifeattiktok.com/search/7669693205558561077) | San Jose | — |
+| **TikTok** | [(General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Start (PhD)](https://lifeattiktok.com/search/7669693205558561077) | San Jose | — |
 | ↳ | [(General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Summer](https://lifeattiktok.com/search/7669693163422845237) | San Jose | — |
 | ↳ | [(General Hire) Machine Learning Engineer Intern (TikTok-Recommendation) - 2027 Summer](https://lifeattiktok.com/search/7662653087863081221) | San Jose | — |
 | ↳ | [(General Hire) Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Summer](https://lifeattiktok.com/search/7662672554084059445) | San Jose | — |
@@ -573,10 +574,10 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Camera Design Engineering Internship - Canada (12 or 16 months)](https://careers.qualcomm.com/careers/job/446721829439) | Vancouver | Oct 28 |
 | **[Cisco](https://quant-scraper.com/companies/cisco)** | [ASIC Engineer - Block Level Physical Design Engineer - Armenia - ETR](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Armenia/ASIC-Engineer---Block-Level-Physical-Design-Engineer---Armenia---ETR_2030054) | Armenia (anywhere) | Oct 27 |
 | **[Apple](https://quant-scraper.com/companies/apple)** | [PMU Design Verification Intern](https://jobs.apple.com/en-us/details/200691915/pmu-design-verification-intern) | — | Oct 27 |
-| ↳ | [Engineering Intern (AI/ML & Automation) for Hardware - Shanghai](https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai) | Shanghai | Oct 27 |
 | **Cisco** | [Hardware Engineer PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991) | San Jose, Carlsbad | Oct 27 |
 | ↳ | [Hardware Engineer II (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose | Oct 27 |
 | ↳ | [Hardware Engineer I (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756) | San Jose, Carlsbad | Oct 27 |
+| **Apple** | [Engineering Intern (AI/ML & Automation) for Hardware - Shanghai](https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai) | Shanghai | Oct 27 |
 | **[Meta](https://quant-scraper.com/companies/meta)** | [Battery Engineering Intern, Cell Engineering (PhD)](https://www.metacareers.com/jobs/938682979075854/) | Sunnyvale | Oct 26 |
 | **[Intel](https://quant-scraper.com/companies/intel)** | [AI Hardware Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) | Santa Clara, Folsom | Oct 24 |
 | **[Arm](https://quant-scraper.com/companies/arm)** | [2027 Master Thesis Projects in ML Hardware Verification Lund](https://careers.arm.com/job/lund/2027-master-thesis-projects-in-ml-hardware-verification-lund/33099/102324964592) | Lund | Oct 23 |
@@ -1167,7 +1168,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>General</b> (85)</summary>
+<summary><b>General</b> (86)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
@@ -1175,6 +1176,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) | Warsaw | Oct 29 |
 | ↳ | [Perf Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384) | Shanghai | Oct 29 |
 | ↳ | [Performance Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711) | Shanghai | Oct 29 |
+| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Algorithm Engineer Project Intern (TikTok Live Revenue) - 2027 start - Project Intern (TikTok Global LIVE) - 2027 Start](https://lifeattiktok.com/search/7698366333909698869) | Sydney | Oct 29 |
 | **[Anduril](https://quant-scraper.com/companies/anduril)** | [Winter 2027 Library Science Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) | Santa Ana | Oct 28 |
 | **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Formal Verification Engineering Internship - 6 months, Cambridge](https://careers.qualcomm.com/careers/job/446721822125) | Cambridge | Oct 28 |
 | **[Meta](https://quant-scraper.com/companies/meta)** | [Wireless Engineering Intern](https://www.metacareers.com/jobs/1881250979530334/) | Sunnyvale | Oct 27 |
@@ -1252,7 +1254,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Summer 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) | United States (anywhere) | — |
 | ↳ | [Summer 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) | United States (anywhere) | — |
 | ↳ | [Summer 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002) | United States (anywhere) | — |
-| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Algorithm Engineer Intern (TikTok Live Revenue) - 2027 Start (PhD)](https://lifeattiktok.com/search/7660367862386673925) | Sydney | — |
+| **TikTok** | [Algorithm Engineer Intern (TikTok Live Revenue) - 2027 Start (PhD)](https://lifeattiktok.com/search/7660367862386673925) | Sydney | — |
 | ↳ | [Large Recommendation Model Algorithm Engineer Intern (Global E-Commerce) - 2027 Start](https://lifeattiktok.com/search/7666282799471528197) | Singapore | — |
 | ↳ | [Large Recommendation Model Algorithm Engineer Intern (Global E-Commerce) - 2027 Start (PhD)](https://lifeattiktok.com/search/7666289053178169605) | Singapore | — |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Perception, Model Lifecycle](https://careers.withwaymo.com/jobs?gh_jid=8248411) | Mountain View | — |
