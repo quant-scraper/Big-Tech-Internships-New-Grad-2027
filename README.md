@@ -4,14 +4,14 @@ Every open internship and graduate role at 57 big tech companies, read from each
 
 From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**1,429** internships · **682** graduate roles · updated 2026-11-03 12:06 UTC
+**1,429** internships · **681** graduate roles · updated 2026-11-03 12:49 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Engineering & technology | [902](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [254](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [538](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1699](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
-| Research | [244](https://quant-scraper.com/big-tech?for=students&discipline=research&region=AMER) | [54](https://quant-scraper.com/big-tech?for=students&discipline=research&region=EMEA) | [41](https://quant-scraper.com/big-tech?for=students&discipline=research&region=APAC) | [341](https://quant-scraper.com/big-tech?for=students&discipline=research) |
+| Engineering & technology | [902](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [254](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [538](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1698](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
+| Research | [244](https://quant-scraper.com/big-tech?for=students&discipline=research&region=AMER) | [55](https://quant-scraper.com/big-tech?for=students&discipline=research&region=EMEA) | [41](https://quant-scraper.com/big-tech?for=students&discipline=research&region=APAC) | [341](https://quant-scraper.com/big-tech?for=students&discipline=research) |
 | Product | [25](https://quant-scraper.com/big-tech?for=students&discipline=product&region=AMER) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=EMEA) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=APAC) | [42](https://quant-scraper.com/big-tech?for=students&discipline=product) |
 | Design | [24](https://quant-scraper.com/big-tech?for=students&discipline=design&region=AMER) | [2](https://quant-scraper.com/big-tech?for=students&discipline=design&region=EMEA) | [3](https://quant-scraper.com/big-tech?for=students&discipline=design&region=APAC) | [29](https://quant-scraper.com/big-tech?for=students&discipline=design) |
 
@@ -24,8 +24,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
   - [Research](#research--internships) (269)
   - [Product](#product--internships) (31)
   - [Design](#design--internships) (19)
-- [Graduate roles](#graduate-roles) (682)
-  - [Engineering & technology](#engineering--technology--graduate-roles) (589)
+- [Graduate roles](#graduate-roles) (681)
+  - [Engineering & technology](#engineering--technology--graduate-roles) (588)
   - [Research](#research--graduate-roles) (72)
   - [Product](#product--graduate-roles) (11)
   - [Design](#design--graduate-roles) (10)
@@ -72,9 +72,9 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) | Toronto | — | Oct 26 |
 | **Shopee** | [Backend Engineer Intern, Engineering Infra - AZPE (Spring 2027)](https://careers.shopee.sg/job-detail/J02205491/) | Singapore | — | Oct 26 |
 | **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Backend Software Engineer - Intern (Global E-Commerce) - 2027 Start](https://lifeattiktok.com/search/7700820444199225653) | Singapore | — | Oct 26 |
-| **[Databricks](https://quant-scraper.com/companies/databricks)** | [Software Engineering Intern (2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | Bellevue, Mountain View +2 | USD 83k–125k | Oct 23 |
 | **[Cisco](https://quant-scraper.com/companies/cisco)** | [Software Engineer Full Stack / Backend I (Co-op) - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049) | San Jose, Carlsbad | — | Oct 23 |
 | **NVIDIA** | [Software Engineer Intern - NVEX, 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186) | Beijing | — | Oct 23 |
+| **[Databricks](https://quant-scraper.com/companies/databricks)** | [Software Engineering Intern (2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | Bellevue, Mountain View +2 | USD 83k–125k | Oct 23 |
 | **Amazon** | [Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond | — | Oct 23 |
 | **TikTok** | [Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start](https://lifeattiktok.com/search/7699479125563738373) | Singapore | — | Oct 22 |
 | **Intel** | [Software Development Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215) | Munich | — | Oct 22 |
@@ -340,12 +340,12 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [AI Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) | Munich | — | Oct 31 |
 | **[Stripe](https://quant-scraper.com/companies/stripe)** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664) | Toronto | — | Oct 30 |
 | ↳ | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122) | Toronto | — | Oct 30 |
-| ↳ | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662) | San Francisco, New York +1 | — | Oct 30 |
-| ↳ | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | San Francisco, New York +1 | — | Oct 30 |
 | **NVIDIA** | [AI Systems Software Engineering Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) | Austin | — | Oct 30 |
 | ↳ | [PhD Research Intern, AI-Aided Engineering - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) | Santa Clara | — | Oct 30 |
 | ↳ | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | Santa Clara | — | Oct 30 |
 | ↳ | [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | Santa Clara | — | Oct 30 |
+| **Stripe** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662) | San Francisco, New York +1 | — | Oct 30 |
+| ↳ | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | San Francisco, New York +1 | — | Oct 30 |
 | **[Waymo](https://quant-scraper.com/companies/waymo)** | [2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Mountain View | USD 125k–177k | Oct 30 |
 | **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - AI Software Engineering Co-op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862429) | Toronto | — | Oct 30 |
 | ↳ | [FY27 Intern - AI Software Systems Co-op - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721862430) | Toronto | — | Oct 30 |
@@ -1166,7 +1166,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Math Libraries Intern, cuEST - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) | Santa Clara | — | Nov 3 |
-| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France](https://careers.qualcomm.com/careers/job/446721911135) | — | — | Nov 2 |
+| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France](https://careers.qualcomm.com/careers/job/446721911135) | Issy-les-Moulineaux, Lannion | — | Nov 2 |
 | **NVIDIA** | [Math Device Extension Libraries Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206) | Warsaw, Courbevoie | — | Oct 31 |
 | ↳ | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569) | Warsaw, Berlin | — | Oct 31 |
 | ↳ | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) | Warsaw | — | Oct 31 |
@@ -1271,7 +1271,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Internship - Machine Learning Research (recurrent models / generative models / interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | Barcelona | — | Nov 2 |
 | ↳ | [Generative AI Research Intern - Image-to-Video Diffusion](https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion) | Beijing | — | Nov 2 |
 | **Qualcomm** | [FY27 Intern - Deep Learning Research Internship - Canada (4 Months)](https://careers.qualcomm.com/careers/job/446721913898) | Markham | — | Nov 2 |
-| ↳ | [FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France](https://careers.qualcomm.com/careers/job/446721901932) | — | — | Nov 2 |
+| ↳ | [FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France](https://careers.qualcomm.com/careers/job/446721901932) | Strasbourg | — | Nov 2 |
 | **Meta** | [Research Scientist Intern, Computer Vision - Video Intelligence (PhD)](https://www.metacareers.com/jobs/1126899676481179/) | Bellevue, Menlo Park | USD 92k–152k | Oct 31 |
 | ↳ | [Research Scientist Intern, Video RecSys (PhD)](https://www.metacareers.com/jobs/1553890293163197/) | Bellevue | USD 92k–152k | Oct 31 |
 | ↳ | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/957720287051540/) | Burlingame | USD 92k–152k | Oct 30 |
@@ -1672,7 +1672,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 ### Engineering & technology — graduate roles
 
 <details open>
-<summary><b>Software</b> (181)</summary>
+<summary><b>Software</b> (180)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
@@ -1681,7 +1681,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Google](https://quant-scraper.com/companies/google)** | [Software Developer II, Early Career](https://www.google.com/about/careers/applications/jobs/results/93868335938052806-software-developer-ii-early-career) | Waterloo | — | Nov 2 |
 | ↳ | [Software Engineer II, Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career) | Mountain View, Kirkland | USD 123k–174k | Nov 2 |
 | **[Databricks](https://quant-scraper.com/companies/databricks)** | [Software Engineer - New Grad (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002) | London | — | Nov 2 |
-| ↳ | [Software Engineer - New Grad (2027 Start) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002) | Belgrade | — | Nov 2 |
 | ↳ | [Software Engineer - New Grad (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002) | Amsterdam | — | Nov 2 |
 | ↳ | [Software Engineer - New Grad (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133691002) | Aarhus | — | Nov 2 |
 | ↳ | [Software Engineer - New Grad (2027 Start) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002) | Berlin | — | Nov 2 |
