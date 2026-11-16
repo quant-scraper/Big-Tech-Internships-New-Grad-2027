@@ -4,28 +4,28 @@ Every open internship and graduate role at 57 big tech companies, read from each
 
 From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**1,440** internships · **687** graduate roles · updated 2026-11-16 02:45 UTC
+**1,433** internships · **685** graduate roles · updated 2026-11-16 13:41 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Engineering & technology | [857](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [240](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [545](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1647](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
-| Research | [297](https://quant-scraper.com/big-tech?for=students&discipline=research&region=AMER) | [53](https://quant-scraper.com/big-tech?for=students&discipline=research&region=EMEA) | [53](https://quant-scraper.com/big-tech?for=students&discipline=research&region=APAC) | [405](https://quant-scraper.com/big-tech?for=students&discipline=research) |
-| Product | [22](https://quant-scraper.com/big-tech?for=students&discipline=product&region=AMER) | [7](https://quant-scraper.com/big-tech?for=students&discipline=product&region=EMEA) | [9](https://quant-scraper.com/big-tech?for=students&discipline=product&region=APAC) | [41](https://quant-scraper.com/big-tech?for=students&discipline=product) |
+| Engineering & technology | [857](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=AMER) | [233](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=EMEA) | [546](https://quant-scraper.com/big-tech?for=students&discipline=technology&region=APAC) | [1641](https://quant-scraper.com/big-tech?for=students&discipline=technology) |
+| Research | [296](https://quant-scraper.com/big-tech?for=students&discipline=research&region=AMER) | [52](https://quant-scraper.com/big-tech?for=students&discipline=research&region=EMEA) | [53](https://quant-scraper.com/big-tech?for=students&discipline=research&region=APAC) | [403](https://quant-scraper.com/big-tech?for=students&discipline=research) |
+| Product | [22](https://quant-scraper.com/big-tech?for=students&discipline=product&region=AMER) | [6](https://quant-scraper.com/big-tech?for=students&discipline=product&region=EMEA) | [9](https://quant-scraper.com/big-tech?for=students&discipline=product&region=APAC) | [40](https://quant-scraper.com/big-tech?for=students&discipline=product) |
 | Design | [30](https://quant-scraper.com/big-tech?for=students&discipline=design&region=AMER) | [2](https://quant-scraper.com/big-tech?for=students&discipline=design&region=EMEA) | [2](https://quant-scraper.com/big-tech?for=students&discipline=design&region=APAC) | [34](https://quant-scraper.com/big-tech?for=students&discipline=design) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (1,440)
-  - [Engineering & technology](#engineering--technology--internships) (1,074)
-  - [Research](#research--internships) (311)
-  - [Product](#product--internships) (30)
+- [Internships](#internships) (1,433)
+  - [Engineering & technology](#engineering--technology--internships) (1,070)
+  - [Research](#research--internships) (309)
+  - [Product](#product--internships) (29)
   - [Design](#design--internships) (25)
-- [Graduate roles](#graduate-roles) (687)
-  - [Engineering & technology](#engineering--technology--graduate-roles) (573)
+- [Graduate roles](#graduate-roles) (685)
+  - [Engineering & technology](#engineering--technology--graduate-roles) (571)
   - [Research](#research--graduate-roles) (94)
   - [Product](#product--graduate-roles) (11)
   - [Design](#design--graduate-roles) (9)
@@ -35,11 +35,14 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 ### Engineering & technology — internships
 
 <details open>
-<summary><b>Software</b> (275)</summary>
+<summary><b>Software</b> (274)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Google](https://quant-scraper.com/companies/google)** | [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95046224276529862-software-engineering-intern-summer-2027) | Shanghai | — | Nov 16 |
+| ↳ | [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/135021615204180678-software-engineering-intern-summer-2027) | Taipei, New Taipei | — | Nov 16 |
 | **[PayPal](https://quant-scraper.com/companies/paypal)** | [Software Engineer Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Software-Engineer-Intern_R0138730) | Tel Aviv | — | Nov 16 |
+| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - GPU Compiler - 3 months, Cambridge](https://careers.qualcomm.com/careers/job/446722152489) | Cambridge | — | Nov 16 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Software Engineering Intern, Neural Reconstruction and Rendering - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925) | Shanghai | — | Nov 14 |
 | ↳ | [Software Engineering Intern, NCCL - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488) | Shanghai, Beijing | — | Nov 14 |
 | **[Coinbase](https://quant-scraper.com/companies/coinbase)** | [Software Engineer Intern](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | Singapore | — | Nov 13 |
@@ -72,7 +75,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Intel** | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Compiler-Engineering-Intern_JR0287941) | Shanghai | — | Nov 6 |
 | ↳ | [Middleware Software Engineering Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635) | Munich | — | Nov 6 |
 | **NVIDIA** | [Software Engineering Intern, Physics Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066) | Zurich | — | Nov 6 |
-| **[Qualcomm](https://quant-scraper.com/companies/qualcomm)** | [FY27 Intern - Software Validation Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722003454) | Markham | — | Nov 6 |
+| **Qualcomm** | [FY27 Intern - Software Validation Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446722003454) | Markham | — | Nov 6 |
 | **[Palantir](https://quant-scraper.com/companies/palantir)** | [Software Engineer, Internship - Data Connectors](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a) | New York | USD 126k | Nov 4 |
 | **[Figma](https://quant-scraper.com/companies/figma)** | [PhD Intern, Software Engineer - Interaction Design (2027)](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) | San Francisco, New York | USD 154k | Nov 4 |
 | **[Adobe](https://quant-scraper.com/companies/adobe)** | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Yerevan/XMLNAME-2027-Intern--Software-Engineer_R173019) | Yerevan | — | Oct 31 |
@@ -156,11 +159,9 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999316) | Mexico (anywhere) | — | Sep 16 |
 | **Amazon** | [【Class of 2028 & 2029/Internship】Software Development Engineers, Amazon International Stores](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | Tokyo | — | Aug 17 |
 | **Notion** | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | San Francisco, New York | USD 119k–127k | Aug 14 |
-| **Grab** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Grab/744000140389140) | Beijing | — | Jul 29 |
 | **Qualcomm** | [Intern - GenAI Benchmarking (MLE) / On-Device Model Deployment (SWE)](https://careers.qualcomm.com/careers/job/446719752421) | Seoul | — | Jul 22 |
 | **Apple** | [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai) | Shanghai | — | Jul 21 |
 | **Qualcomm** | [Intern: On-device AgenticAI](https://careers.qualcomm.com/careers/job/446719804308) | Seoul | — | Jul 20 |
-| **Grab** | [Software Engineer Intern](https://jobs.smartrecruiters.com/Grab/744000134684719) | Beijing | — | Jun 29 |
 | **Apple** | [Software PhD Internships](https://jobs.apple.com/en-us/details/200664323/software-phd-internships) | United States (anywhere) | — | May 21 |
 | ↳ | [Software Engineering Masters Internships](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) | United States (anywhere) | — | May 21 |
 | ↳ | [Software Undergrad Engineering Internships](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) | United States (anywhere) | — | May 21 |
@@ -219,7 +220,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Figma** | [PhD Intern, Software Engineer - Graphics (2027)](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) | San Francisco, New York | USD 154k | — |
 | ↳ | [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) | London | — | — |
 | ↳ | [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) | San Francisco, New York | USD 114k | — |
-| **[Google](https://quant-scraper.com/companies/google)** | [Part-Time Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74922616988541638-parttime-software-engineering-phd-intern-2027) | Tel Aviv | — | — |
+| **Google** | [Part-Time Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74922616988541638-parttime-software-engineering-phd-intern-2027) | Tel Aviv | — | — |
 | ↳ | [Software Developer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027) | Waterloo, Toronto | — | — |
 | ↳ | [Software Engineer, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)](https://www.google.com/about/careers/applications/jobs/results/107900969756304070-software-engineer-greach-program-for-people-with-disabilities-english-mandarin) | Shanghai, Beijing | — | — |
 | ↳ | [Software Engineering Intern, 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english) | Singapore | — | — |
@@ -246,7 +247,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Dublin | — | — |
 | **TikTok** | [(General Hire) Software Engineer Intern (Trust and Safety-Engineering) - 2027 Summer](https://lifeattiktok.com/search/7662700594251958581) | San Jose | USD 94k | — |
 | ↳ | [(General Hire) Software Engineer Intern (Trust and Safety-Engineering) - 2027 Summer](https://lifeattiktok.com/search/7662684280234232117) | Seattle | USD 87k | — |
-| ↳ | [(Backend Software Engineer) Project Intern (Data Trust and Safety) - 2026 Start](https://lifeattiktok.com/search/7682669149835725109) | Sydney | — | — |
 | ↳ | [(Mobile Software Engineer) Intern (Global Live Revenue) - 2027 Start](https://lifeattiktok.com/search/7672397362020862213) | Singapore | — | — |
 | ↳ | [Backend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)](https://lifeattiktok.com/search/7605436552185399605) | Sydney | — | — |
 | ↳ | [Backend Engineer Intern (TikTok Recommendation Architecture) - 2026 Start (PhD)](https://lifeattiktok.com/search/7532073373783853320) | Singapore | — | — |
@@ -264,7 +264,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Backend Software Engineer Intern (TikTok-Growth-Innovative Growth) - 2027 Summer](https://lifeattiktok.com/search/7667934860750063925) | San Jose | USD 94k | — |
 | ↳ | [Backend Software Engineer Intern (TikTok-Search) - 2027 Summer](https://lifeattiktok.com/search/7667933335084124469) | San Jose | USD 94k | — |
 | ↳ | [Backend Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer](https://lifeattiktok.com/search/7667934635573692725) | San Jose | USD 94k | — |
-| ↳ | [Backend Software Engineer Project Intern (Trust & Safety) - 2026 Start](https://lifeattiktok.com/search/7683533453997328693) | Singapore | — | — |
 | ↳ | [Frontend Engineer Intern (Ads Interface) - 2027 Summer](https://lifeattiktok.com/search/7671211313289398581) | San Jose | USD 94k–125k | — |
 | ↳ | [Frontend Engineer Intern (Global CRM) - 2027 Summer](https://lifeattiktok.com/search/7669711026846058757) | San Jose | USD 94k–125k | — |
 | ↳ | [Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)](https://lifeattiktok.com/search/7605434949722540341) | Sydney | — | — |
@@ -563,6 +562,8 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Google](https://quant-scraper.com/companies/google)** | [Hardware Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73308226560369350-hardware-engineering-intern-2027) | Taipei, New Taipei | — | Nov 16 |
+| ↳ | [Silicon Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/94500213674123974-silicon-engineering-intern-2027) | New Taipei | — | Nov 16 |
 | **[Intel](https://quant-scraper.com/companies/intel)** | [Power Integrity Intern Worker Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Power-Integrity-Intern-Worker-Engineer_JR0289171) | San José | — | Nov 14 |
 | **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Electrical Engineering INTERN (PhD)](https://apply.careers.microsoft.com/careers/job/1970393556986148) | Redmond | USD 68k–147k | Nov 13 |
 | **[Arm](https://quant-scraper.com/companies/arm)** | [GPU Hardware Intern](https://careers.arm.com/job/lund/gpu-hardware-intern/33099/103158328096) | Lund | — | Nov 11 |
@@ -579,7 +580,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [VLSI Timing Methodology Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798) | Santa Clara | USD 42k–196k | Nov 5 |
 | **Meta** | [ASIC EDA Infrastructure Engineer Intern](https://www.metacareers.com/jobs/1883872846321140/) | Sunnyvale | USD 80k–144k | Nov 4 |
 | ↳ | [Hardware Systems Architecture Intern, Performance & Workload Analysis](https://www.metacareers.com/jobs/1296272445973940/) | Redmond | USD 80k–143k | Nov 4 |
-| **[Google](https://quant-scraper.com/companies/google)** | [Silicon Manufacturing Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/102906012280726214-silicon-manufacturing-intern-2027) | Taipei | — | Nov 4 |
+| **Google** | [Silicon Manufacturing Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/102906012280726214-silicon-manufacturing-intern-2027) | Taipei | — | Nov 4 |
 | **Meta** | [ASIC Engineering Intern, Formal Verification](https://www.metacareers.com/jobs/1450222650641899/) | Sunnyvale | USD 80k–144k | Nov 4 |
 | **Cisco** | [Hardware Engineer PhD Co-op - United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378) | San Jose | — | Nov 4 |
 | **Qualcomm** | [FY27 Intern - Display IP FPGA Emulation Intern - Canada (4 months)](https://careers.qualcomm.com/careers/job/446721972361) | Markham | — | Nov 4 |
@@ -613,7 +614,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Qualcomm** | [FY27 Intern - Applied AI Engineering Intern (Hardware Systems) - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721678733) | Vancouver | — | Oct 22 |
 | **Intel** | [Design Verification Graduate Intern 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651) | Fort Collins, Santa Clara | USD 106k | Oct 21 |
 | **Qualcomm** | [FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months)](https://careers.qualcomm.com/careers/job/446721661830) | Markham | — | Oct 21 |
-| **Apple** | [Cellular Baseband Design Verification Intern](https://jobs.apple.com/en-us/details/200690378/cellular-baseband-design-verification-intern) | Munich | — | Oct 20 |
 | **NVIDIA** | [AI Developer Intern - Interconnect Hardware Frontend, 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468) | Shanghai | — | Oct 20 |
 | ↳ | [ASIC TOP Floorplan Intern, 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469) | Shanghai | — | Oct 20 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [Hardware Development Engineer Intern, Winter 2027](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue | — | Oct 20 |
@@ -709,7 +709,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [SoC Architect Intern](https://careers.arm.com/job/sophia-antipolis/soc-architect-intern/33099/101751692512) | Sophia Antipolis | — | — |
 | **[DoorDash](https://quant-scraper.com/companies/doordash)** | [Electrical Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) | Oakland | USD 107k–158k | — |
 | **Google** | [Hardware Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027) | Mountain View, Ann Arbor | USD 106k–141k | — |
-| ↳ | [Hardware/Electrical Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121479339848934086-hardwareelectrical-engineering-bsms-intern-2027) | Tel Aviv, Haifa | — | — |
 | ↳ | [Hardware/Silicon Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/133355062935069382-hardwaresilicon-engineering-phd-intern-2027) | Tel Aviv | — | — |
 | ↳ | [Silicon Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/136529930677560006-silicon-engineering-intern-phd-summer-2027) | Sunnyvale, Austin | USD 110k–147k | — |
 | ↳ | [Silicon Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027) | Bangalore, Hyderabad | — | — |
@@ -925,8 +924,9 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Google](https://quant-scraper.com/companies/google)** | [Forward Deployed Engineer Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/96299220855595718-forward-deployed-engineer-intern-2027) | Bangalore | — | Nov 16 |
 | **[Salesforce](https://quant-scraper.com/companies/salesforce)** | [Solution Engineer Intern France - February 2027](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Solution-Engineer-Intern-France---February-2027_JR368365) | Paris | — | Nov 13 |
-| **[Google](https://quant-scraper.com/companies/google)** | [Associate Customer Engineer, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean)](https://www.google.com/about/careers/applications/jobs/results/134693011551331014-associate-customer-engineer-greach-program-for-people-with-disabilities-or-veterans-or-english-korean) | Seoul | — | Nov 11 |
+| **Google** | [Associate Customer Engineer, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean)](https://www.google.com/about/careers/applications/jobs/results/134693011551331014-associate-customer-engineer-greach-program-for-people-with-disabilities-or-veterans-or-english-korean) | Seoul | — | Nov 11 |
 | **[AWS](https://quant-scraper.com/companies/aws)** | [Field Engineer Intern, Fielding Engineering](https://www.amazon.jobs/en/jobs/10589523/field-engineer-intern-fielding-engineering) | Singapore | — | Oct 27 |
 | **[Palantir](https://quant-scraper.com/companies/palantir)** | [Forward Deployed Software Engineer, Internship - Warp Speed](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) | New York | USD 120k | Oct 22 |
 | **[Cisco](https://quant-scraper.com/companies/cisco)** | [Splunk Solutions Engineer Intern](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/London-United-Kingdom/Splunk-Solutions-Engineer-Intern_2025977) | London | — | Oct 17 |
@@ -951,7 +951,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **[Arm](https://quant-scraper.com/companies/arm)** | [Verification Intern - Solutions Engineering](https://careers.arm.com/job/sophia-antipolis/verification-intern-solutions-engineering/33099/101751692480) | Sophia Antipolis | — | — |
 | **[Coinbase](https://quant-scraper.com/companies/coinbase)** | [Forward Deployed Engineer Intern (HR Technology)](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | New York | USD 104k | — |
 | **Google** | [Forward Deployed Engineer Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/115691171337904838-forward-deployed-engineer-intern-2027) | Singapore | — | — |
-| ↳ | [Forward Deployed Engineering Intern, BS/MS, 2027](https://www.google.com/about/careers/applications/jobs/results/135156989620560582-forward-deployed-engineering-intern-bsms-2027) | London | — | — |
 | ↳ | [Forward Deployed Engineering Intern, BS/MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027) | Sunnyvale, New York | USD 98k–131k | — |
 | ↳ | [Product Deployment Engineer BS/MS, Intern - 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/118991686201156294-product-deployment-engineer-bsms-intern-2027-english) | Hamburg, Madrid | — | — |
 | ↳ | [Product Deployment Engineer BS/MS, Intern - 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/112940936274551494-product-deployment-engineer-bsms-intern-2027-english) | London | — | — |
@@ -1095,10 +1094,11 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Support</b> (17)</summary>
+<summary><b>Support</b> (13)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Google](https://quant-scraper.com/companies/google)** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/87678293779587782-data-center-technician-intern-2027) | Changhua | — | Nov 16 |
 | **[Intel](https://quant-scraper.com/companies/intel)** | [Yield Defect Metrology Technician Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Yield-Defect-Metrology-Technician-Undergraduate-Intern_JR0288999) | Penang | — | Nov 12 |
 | **[Grab](https://quant-scraper.com/companies/grab)** | [Intern, Product Support](https://jobs.smartrecruiters.com/Grab/744000161037244) | Phnom Penh | — | Nov 11 |
 | **Intel** | [New Mexico WPM Manufacturing Technician Internship](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454) | Albuquerque | — | Oct 31 |
@@ -1108,12 +1108,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Cloud Support Associate Internship - April 2027 start, Support Engineering](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) | Dublin | — | Oct 2 |
 | **Amazon** | [【28卒対象】Operations Engineer Internship](https://www.amazon.jobs/en/jobs/10506459/28-operations-engineer-internship) | Kawasaki | — | Aug 19 |
 | **[Datadog](https://quant-scraper.com/companies/datadog)** | [IT Support Technician Intern](https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799) | Paris | — | — |
-| **[Google](https://quant-scraper.com/companies/google)** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/139493738358416070-data-center-technician-intern-2027) | Eemshaven | — | — |
-| ↳ | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142308488125522630-data-center-technician-intern-2027) | London | — | — |
-| ↳ | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/129378231382876870-data-center-technician-intern-2027) | Saint-Ghislain | — | — |
-| ↳ | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/140518143893086918-data-center-technician-intern-2027) | Singapore | — | — |
-| ↳ | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/103082311292986054-data-center-technician-intern-2027) | Skien, Norway | — | — |
-| ↳ | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/85160271760237254-data-center-technician-intern-2027) | Hamina, Finland | — | — |
+| **Google** | [Data Center Technician Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/140518143893086918-data-center-technician-intern-2027) | Singapore | — | — |
 | **[Shopee](https://quant-scraper.com/companies/shopee)** | [Helpdesk Engineer Intern - IT (JKT)](https://careers.shopee.sg/job-detail/J02151166/) | Jakarta | — | — |
 | ↳ | [Helpdesk Engineer Intern - IT (Solo)](https://careers.shopee.sg/job-detail/J02192810/) | Solo | — | — |
 
@@ -1129,10 +1124,11 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>General</b> (84)</summary>
+<summary><b>General</b> (85)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Google](https://quant-scraper.com/companies/google)** | [Product Design Engineering Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/136501832733074118-product-design-engineering-intern-2027) | Taipei, New Taipei | — | Nov 16 |
 | **[NVIDIA](https://quant-scraper.com/companies/nvidia)** | [Product Engineer - Board (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Product-Engineer---Board--RDSS-Intern-_JR2024272) | Hsinchu | — | Nov 16 |
 | ↳ | [Math Device Extension Libraries Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Math-Device-Extension-Libraries-Intern---2027_JR2028208) | Zurich | — | Nov 13 |
 | **[Riot Games](https://quant-scraper.com/companies/riotgames)** | [Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027](https://www.riotgames.com/en/work-with-us/job/8356789?gh_jid=8356789) | Los Angeles | USD 166k | Nov 12 |
@@ -1206,7 +1202,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Project Operations Intern (Productivity Engineering)](https://careers.arm.com/job/sophia-antipolis/project-operations-intern-productivity-engineering/33099/101751692528) | Sophia Antipolis | — | — |
 | ↳ | [SE - Chip Methodology & Automation Intern](https://careers.arm.com/job/sophia-antipolis/se-chip-methodology-and-automation-intern/33099/101751692448) | Sophia Antipolis | — | — |
 | ↳ | [Tools & Flows Applications Engineering Intern](https://careers.arm.com/job/sophia-antipolis/tools-and-flows-applications-engineering-intern/33099/102025873968) | Sophia Antipolis | — | — |
-| **[Google](https://quant-scraper.com/companies/google)** | [User Experience Engineer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027) | Mountain View, Atlanta | USD 106k–141k | — |
+| **Google** | [User Experience Engineer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027) | Mountain View, Atlanta | USD 106k–141k | — |
 | **[SpaceX](https://quant-scraper.com/companies/spacex)** | [Spring 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | United States (anywhere) | USD 58k–62k | — |
 | ↳ | [Spring 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) | United States (anywhere) | USD 58k–62k | — |
 | ↳ | [Spring 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) | United States (anywhere) | USD 83k–100k | — |
@@ -1223,7 +1219,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 ### Research — internships
 
 <details open>
-<summary><b>AI / ML</b> (214)</summary>
+<summary><b>AI / ML</b> (213)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
@@ -1261,7 +1257,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/1832390484751700/) | Redmond | USD 92k–152k | Nov 3 |
 | ↳ | [Research Scientist Intern PhD, PAR Safety Evals and Red Teaming](https://www.metacareers.com/jobs/1903232531024141/) | Bellevue, Menlo Park +1 | USD 92k–152k | Nov 3 |
 | ↳ | [Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)](https://www.metacareers.com/jobs/1886852912490515/) | Zurich | — | Nov 2 |
-| **Microsoft** | [Researcher Intern, CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027387) | Redmond, Mountain View | USD 68k–147k | Nov 2 |
 | **Apple** | [AI Research Intern - Foundation Models & Multimodal Intelligence](https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence) | Zurich | — | Nov 2 |
 | ↳ | [Internship - Machine Learning Research (recurrent models / generative models / interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | Barcelona | — | Nov 2 |
 | ↳ | [Generative AI Research Intern - Image-to-Video Diffusion](https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion) | Beijing | — | Nov 2 |
@@ -1445,42 +1440,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>Data</b> (28)</summary>
-
-| Company | Role | Location | Salary | Posted |
-|---|---|---|---|---|
-| **[Google](https://quant-scraper.com/companies/google)** | [Associate Data Scientist, Causal Machine Learning, Decision Science Systems, gReach Program (Japanese, English)](https://www.google.com/about/careers/applications/jobs/results/91377141089739462-associate-data-scientist-causal-machine-learning-decision-science-systems-greach-program-japanese-english) | Tokyo | — | Nov 13 |
-| **[Stripe](https://quant-scraper.com/companies/stripe)** | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | New York, Seattle +1 | — | Nov 10 |
-| **[PayPal](https://quant-scraper.com/companies/paypal)** | [Data Scientist Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582) | San Jose | USD 67k–114k | Nov 6 |
-| **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Redmond | USD 82k–175k | Nov 4 |
-| **[Apple](https://quant-scraper.com/companies/apple)** | [Subject Matter Expert - Data Science, Intern](https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern) | Shenzhen | — | Oct 29 |
-| **[Databricks](https://quant-scraper.com/companies/databricks)** | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, San Francisco | USD 112k–125k | Oct 22 |
-| **[Intel](https://quant-scraper.com/companies/intel)** | [Data Science and Analytics - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) | Hillsboro | USD 137k | Oct 17 |
-| **[Amazon](https://quant-scraper.com/companies/amazon)** | [2027 Data Science Internship - United States, PhD or Masters Student](https://www.amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student) | Seattle | — | Sep 22 |
-| **[AMD](https://quant-scraper.com/companies/amd)** | [2027 Term 1 Internship - Developing AI & Data Science Solutions to Accelerate AMD's Product Development](https://careers.amd.com/jobs/91459) | Singapore | — | Aug 25 |
-| **[Atlassian](https://quant-scraper.com/companies/atlassian)** | [Data Scientist Intern, 2027 Summer U.S.](https://www.atlassian.com/company/careers/details/26271) | Seattle | — | — |
-| **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Data Science Intern](https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004) | Cary | — | — |
-| **[Figma](https://quant-scraper.com/companies/figma)** | [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) | San Francisco, New York | USD 141k | — |
-| **Google** | [Business Data Scientist Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027) | Mountain View, Ann Arbor | USD 118k–157k | — |
-| ↳ | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74389446190867142-data-science-phd-intern-2027) | Warsaw | — | — |
-| ↳ | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782-data-science-phd-intern-2027) | London | — | — |
-| ↳ | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950-data-science-phd-intern-2027) | Zurich | — | — |
-| ↳ | [Data Scientist Product MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/84561862556820166-data-scientist-product-ms-intern-2027) | Zurich | — | — |
-| ↳ | [Data Scientist, Research Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027) | Mountain View, Ann Arbor | USD 118k–157k | — |
-| **[Meta](https://quant-scraper.com/companies/meta)** | [Data Scientist Intern, Product Analytics (PhD) (Summer 2027)](https://www.metacareers.com/jobs/929757023499411/) | Menlo Park | USD 86k–145k | — |
-| ↳ | [Data Scientist Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1633096478817942/) | Menlo Park, New York | USD 86k–145k | — |
-| **[Pinterest](https://quant-scraper.com/companies/pinterest)** | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, Palo Alto +2 | USD 132k | — |
-| ↳ | [PhD Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | San Francisco, Palo Alto +2 | USD 145k | — |
-| **[Roblox](https://quant-scraper.com/companies/roblox)** | [(2027) Data Scientist - PhD Intern](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) | San Mateo | USD 137k | — |
-| **Stripe** | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | — | — |
-| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Data Scientist Intern (VOD Data) - 2027 Summer](https://lifeattiktok.com/search/7670287013157095733) | San Jose | USD 94k | — |
-| **[Waymo](https://quant-scraper.com/companies/waymo)** | [2027 Summer Intern, MS/PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco | USD 146k–177k | — |
-| ↳ | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Mountain View, San Francisco | USD 177k | — |
-| ↳ | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Mountain View | USD 177k | — |
-
-</details>
-
-<details>
 <summary><b>Robotics</b> (28)</summary>
 
 | Company | Role | Location | Salary | Posted |
@@ -1513,6 +1472,41 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/jobs/1420325362923811/) | Zurich | — | — |
 | ↳ | [Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)](https://www.metacareers.com/jobs/1940312740718917/) | Menlo Park | USD 92k–152k | — |
 | ↳ | [Research Scientist Intern, Robotics Foundation Models Post-Training (PhD)](https://www.metacareers.com/jobs/848358355026771/) | Zurich | — | — |
+
+</details>
+
+<details>
+<summary><b>Data</b> (27)</summary>
+
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Google](https://quant-scraper.com/companies/google)** | [Associate Data Scientist, Causal Machine Learning, Decision Science Systems, gReach Program (Japanese, English)](https://www.google.com/about/careers/applications/jobs/results/91377141089739462-associate-data-scientist-causal-machine-learning-decision-science-systems-greach-program-japanese-english) | Tokyo | — | Nov 13 |
+| **[Stripe](https://quant-scraper.com/companies/stripe)** | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | New York, Seattle +1 | — | Nov 10 |
+| **[PayPal](https://quant-scraper.com/companies/paypal)** | [Data Scientist Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582) | San Jose | USD 67k–114k | Nov 6 |
+| **[Microsoft](https://quant-scraper.com/companies/microsoft)** | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Redmond | USD 82k–175k | Nov 4 |
+| **[Apple](https://quant-scraper.com/companies/apple)** | [Subject Matter Expert - Data Science, Intern](https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern) | Shenzhen | — | Oct 29 |
+| **[Databricks](https://quant-scraper.com/companies/databricks)** | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, San Francisco | USD 112k–125k | Oct 22 |
+| **[Intel](https://quant-scraper.com/companies/intel)** | [Data Science and Analytics - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) | Hillsboro | USD 137k | Oct 17 |
+| **[Amazon](https://quant-scraper.com/companies/amazon)** | [2027 Data Science Internship - United States, PhD or Masters Student](https://www.amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student) | Seattle | — | Sep 22 |
+| **[AMD](https://quant-scraper.com/companies/amd)** | [2027 Term 1 Internship - Developing AI & Data Science Solutions to Accelerate AMD's Product Development](https://careers.amd.com/jobs/91459) | Singapore | — | Aug 25 |
+| **[Atlassian](https://quant-scraper.com/companies/atlassian)** | [Data Scientist Intern, 2027 Summer U.S.](https://www.atlassian.com/company/careers/details/26271) | Seattle | — | — |
+| **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Data Science Intern](https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004) | Cary | — | — |
+| **[Figma](https://quant-scraper.com/companies/figma)** | [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) | San Francisco, New York | USD 141k | — |
+| **Google** | [Business Data Scientist Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027) | Mountain View, Ann Arbor | USD 118k–157k | — |
+| ↳ | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74389446190867142-data-science-phd-intern-2027) | Warsaw | — | — |
+| ↳ | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782-data-science-phd-intern-2027) | London | — | — |
+| ↳ | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950-data-science-phd-intern-2027) | Zurich | — | — |
+| ↳ | [Data Scientist, Research Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027) | Mountain View, Ann Arbor | USD 118k–157k | — |
+| **[Meta](https://quant-scraper.com/companies/meta)** | [Data Scientist Intern, Product Analytics (PhD) (Summer 2027)](https://www.metacareers.com/jobs/929757023499411/) | Menlo Park | USD 86k–145k | — |
+| ↳ | [Data Scientist Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1633096478817942/) | Menlo Park, New York | USD 86k–145k | — |
+| **[Pinterest](https://quant-scraper.com/companies/pinterest)** | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, Palo Alto +2 | USD 132k | — |
+| ↳ | [PhD Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | San Francisco, Palo Alto +2 | USD 145k | — |
+| **[Roblox](https://quant-scraper.com/companies/roblox)** | [(2027) Data Scientist - PhD Intern](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) | San Mateo | USD 137k | — |
+| **Stripe** | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | — | — |
+| **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Data Scientist Intern (VOD Data) - 2027 Summer](https://lifeattiktok.com/search/7670287013157095733) | San Jose | USD 94k | — |
+| **[Waymo](https://quant-scraper.com/companies/waymo)** | [2027 Summer Intern, MS/PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco | USD 146k–177k | — |
+| ↳ | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Mountain View, San Francisco | USD 177k | — |
+| ↳ | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Mountain View | USD 177k | — |
 
 </details>
 
@@ -1644,7 +1638,6 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Product Management Intern (2027) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002) | Berlin | General | — | — |
 | ↳ | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Mountain View +1 | General | USD 107k–116k | — |
 | **[Epic Games](https://quant-scraper.com/companies/epicgames)** | [Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Cary | General | — | — |
-| **[Google](https://quant-scraper.com/companies/google)** | [Associate Product Manager BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/103464941339452102-associate-product-manager-bsms-intern-2027) | London | General | — | — |
 | **[TikTok](https://quant-scraper.com/companies/tiktok)** | [Product Manager Intern (TikTok BRIC Singapore) - 2027 Start](https://lifeattiktok.com/search/7670132594554423557) | Singapore | General | — | — |
 | **[Waymo](https://quant-scraper.com/companies/waymo)** | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles | General | USD 104k | — |
 
@@ -1683,7 +1676,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 ### Engineering & technology — graduate roles
 
 <details open>
-<summary><b>Software</b> (175)</summary>
+<summary><b>Software</b> (174)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
@@ -1691,8 +1684,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | ↳ | [Software Engineer II - Finance Data & Experiences](https://apply.careers.microsoft.com/careers/job/1970393556962296) | Mexico City | — | Nov 13 |
 | ↳ | [Software Engineer II - CTJ- POLY](https://apply.careers.microsoft.com/careers/job/1970393557000103) | Redmond, Reston | USD 134k–219k | Nov 13 |
 | **[SpaceX](https://quant-scraper.com/companies/spacex)** | [New Graduate Engineer, Aerospace Software (Starfall)](https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002) | Hawthorne | USD 125k–195k | Nov 12 |
-| **Microsoft** | [Software Engineer 2](https://apply.careers.microsoft.com/careers/job/1970393557054138) | Hyderabad | — | Nov 12 |
-| ↳ | [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) | Redmond | USD 111k–184k | Nov 10 |
+| **Microsoft** | [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) | Redmond | USD 111k–184k | Nov 10 |
 | ↳ | [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393557039397) | Redmond | USD 111k–184k | Nov 9 |
 | **[Roblox](https://quant-scraper.com/companies/roblox)** | [Software Engineer, Engine Harmony](https://careers.roblox.com/jobs/8243631?gh_jid=8243631) | San Mateo | USD 153k–197k | Nov 5 |
 | **[Amazon](https://quant-scraper.com/companies/amazon)** | [Software Development Engineer, Amazon Leo, Early Career - 2027 (US)](https://www.amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) | Redmond | — | Nov 5 |
@@ -1866,7 +1858,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 </details>
 
 <details>
-<summary><b>AI / ML</b> (151)</summary>
+<summary><b>AI / ML</b> (150)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
@@ -1879,8 +1871,7 @@ From **[QuantScraper](https://quant-scraper.com/big-tech?for=students)**, where 
 | **Arm** | [Graduate Machine Learning Engineer - Central Technology](https://careers.arm.com/job/lund/graduate-machine-learning-engineer-central-technology/33099/102539121824) | Lund | — | Oct 28 |
 | ↳ | [Graduate ML Software Engineer](https://careers.arm.com/job/lund/graduate-ml-software-engineer/33099/102539110752) | Lund | — | Oct 28 |
 | **NVIDIA** | [NVIDIA 2027 New College Graduate: Deep Learning and High-Performance Computing Engineering - China](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107) | Shanghai, Beijing +1 | — | Oct 17 |
-| **Microsoft** | [Software Engineer II - Core AI](https://apply.careers.microsoft.com/careers/job/1970393557007337) | Beijing | — | Oct 10 |
-| ↳ | [SOFTWARE ENGINEER II - Core AI](https://apply.careers.microsoft.com/careers/job/1970393556986960) | Shanghai | — | Sep 14 |
+| **Microsoft** | [SOFTWARE ENGINEER II - Core AI](https://apply.careers.microsoft.com/careers/job/1970393556986960) | Shanghai | — | Sep 14 |
 | **[Notion](https://quant-scraper.com/companies/notion)** | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco | USD 130k–150k | Jul 6 |
 | **[Atlassian](https://quant-scraper.com/companies/atlassian)** | [Machine Learning Engineer, 2027 Graduate U.S.](https://www.atlassian.com/company/careers/details/25999) | Seattle | — | — |
 | **[Google](https://quant-scraper.com/companies/google)** | [Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start](https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-aimachine-learning-phd-early-career-2027-start) | Sunnyvale, Atlanta | USD 147k–210k | — |
